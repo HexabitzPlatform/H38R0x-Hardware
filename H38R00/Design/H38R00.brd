@@ -1420,22 +1420,22 @@ design rules under a new name.</description>
 <attribute name="ROHS" value="Y" x="32.492" y="40.01" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="TYPE" x="32.492" y="40.01" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="U2" library="Hexabitz" package="RGE0024B_NV" value="TPS65130RGERT" x="33.02" y="63.5" smashed="yes" rot="R90">
-<attribute name="ALTERNATE_PARTNUMBER" value="TPS65130RGET" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="APPLICATION_BUILDNUMBER" value="*" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="COMPTYPE" value="IC" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER" value="Texas Instruments" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MFN" value="Texas Instruments" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUNTTYPE" value="SMT" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="TPS65130RGET" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="29.845" y="61.4934" size="1.016" layer="25" rot="SR90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/tps65130rget-texas+instruments-7102173?r=sp&amp;s=1oanP9AbQhOs522rlI3BXw" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PACKAGEREFERENCE" value="RGE0024B" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PARTNUMBER" value="TPS65130RGER" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PIN_COUNT" value="25" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="REFDES" value="RefDes" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="ROHS" value="Y" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="TYPE" value="TYPE" x="33.02" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="U2" library="Hexabitz" package="RGE0024B_NV" value="TPS65130RGERT" x="33.02" y="63.119" smashed="yes" rot="R90">
+<attribute name="ALTERNATE_PARTNUMBER" value="TPS65130RGET" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="APPLICATION_BUILDNUMBER" value="*" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="COMPTYPE" value="IC" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER" value="Texas Instruments" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="Texas Instruments" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUNTTYPE" value="SMT" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="TPS65130RGET" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="29.845" y="61.1124" size="1.016" layer="25" rot="SR90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/tps65130rget-texas+instruments-7102173?r=sp&amp;s=1oanP9AbQhOs522rlI3BXw" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGEREFERENCE" value="RGE0024B" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" value="TPS65130RGER" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PIN_COUNT" value="25" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="REFDES" value="RefDes" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="ROHS" value="Y" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="TYPE" x="33.02" y="63.119" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="IN" library="Hexabitz" package="CON-PHOENIX-350_1751248" value="INPUT" x="32.893" y="23.241" locked="yes" smashed="yes" rot="R180">
 <attribute name="MF" value="" x="32.893" y="23.241" size="1.778" layer="27" rot="R180" display="off"/>
@@ -1451,7 +1451,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="23.368" y="70.358" size="1.778" layer="27" rot="R60" display="off"/>
 <attribute name="MFN" value="Phoenix Contact" x="23.368" y="70.358" size="1.778" layer="27" rot="R60" display="off"/>
 <attribute name="MPN" value="1751251" x="23.368" y="70.358" size="1.778" layer="27" rot="R60" display="off"/>
-<attribute name="NAME" x="23.790165625" y="65.374215625" size="1.778" layer="25" ratio="10" rot="R150"/>
+<attribute name="NAME" x="23.663165625" y="60.294215625" size="1.778" layer="25" ratio="10" rot="R150"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/1751251-phoenix+contact-36473?r=sp&amp;s=9M0VWNoHTyq04j3qI6lQOQ" x="23.368" y="70.358" size="1.778" layer="27" rot="R60" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="23.368" y="70.358" size="1.778" layer="27" rot="R60" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="23.368" y="70.358" size="1.778" layer="27" rot="R60" display="off"/>
@@ -1461,7 +1461,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="42.672" y="70.358" size="1.778" layer="27" rot="R300" display="off"/>
 <attribute name="MFN" value="Phoenix Contact" x="42.672" y="70.358" size="1.778" layer="27" rot="R300" display="off"/>
 <attribute name="MPN" value="1751251" x="42.672" y="70.358" size="1.778" layer="27" rot="R300" display="off"/>
-<attribute name="NAME" x="38.144834375" y="72.484284375" size="1.778" layer="25" ratio="10" rot="R30"/>
+<attribute name="NAME" x="47.719284375" y="63.455165625" size="1.778" layer="25" ratio="10" rot="R210"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/1751251-phoenix+contact-36473?r=sp&amp;s=9M0VWNoHTyq04j3qI6lQOQ" x="42.672" y="70.358" size="1.778" layer="27" rot="R300" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="42.672" y="70.358" size="1.778" layer="27" rot="R300" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="42.672" y="70.358" size="1.778" layer="27" rot="R300" display="off"/>
@@ -1471,7 +1471,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="33.02" y="75.819" size="1.778" layer="27" display="off"/>
 <attribute name="MFN" value="Phoenix Contact" x="33.02" y="75.819" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="1751251" x="33.02" y="75.819" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="39.202" y="74.2315" size="1.778" layer="25" ratio="10" rot="R90"/>
+<attribute name="NAME" x="37.4015" y="78.654" size="1.778" layer="25" ratio="10" rot="R270"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/1751251-phoenix+contact-36473?r=sp&amp;s=9M0VWNoHTyq04j3qI6lQOQ" x="33.02" y="75.819" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="33.02" y="75.819" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="33.02" y="75.819" size="1.778" layer="27" display="off"/>
@@ -1683,73 +1683,73 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="40.327" y="47.803" size="1.016" layer="27" rot="R90"/>
 <attribute name="VOLTAGE" value="2000V" x="38.227" y="49.403" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="L5" library="Hexabitz" package="C-0603" value="2.2uH" x="34.036" y="57.277" smashed="yes" rot="R180">
-<attribute name="MFN" value="Murata" x="34.036" y="57.277" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="LQM18PN2R2MFHD" x="34.036" y="57.277" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="34.671" y="56.642" size="1.016" layer="25" rot="R180"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/lqm18pn2r2mfhd-murata-46921411?r=sp&amp;s=Row_twtqSIqtu2tUWXcF8g#" x="34.036" y="57.277" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="34.671" y="59.182" size="1.016" layer="27" rot="R180"/>
+<element name="L5" library="Hexabitz" package="C-0603" value="2.2uH" x="34.544" y="57.15" smashed="yes" rot="R180">
+<attribute name="MFN" value="Murata" x="34.544" y="57.15" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="LQM18PN2R2MFHD" x="34.544" y="57.15" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="35.179" y="56.515" size="1.016" layer="25" rot="R180"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/lqm18pn2r2mfhd-murata-46921411?r=sp&amp;s=Row_twtqSIqtu2tUWXcF8g#" x="34.544" y="57.15" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="35.179" y="59.055" size="1.016" layer="27" rot="R180"/>
 </element>
-<element name="D3" library="Hexabitz" package="SOD123" value="DIOD-SOD-123" x="36.83" y="56.769" smashed="yes" rot="R90">
-<attribute name="CAPACITANCE" value="" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="CURRENT" value="2A" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="CURRENT_RATING" value="" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MFN" value="ON Semiconductor" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="NTS245SFT1G" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="34.925" y="54.864" size="1.016" layer="25" rot="R90"/>
-<attribute name="OCTOPART_ID" value="" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/nts245sft1g-on+semiconductor-53638116?r=sp&amp;s=Zo8Z59f0QcynsgZ2PtBRwg" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="40.005" y="54.864" size="1.016" layer="27" rot="R90"/>
-<attribute name="VOLTAGE_RATING_DC" value="45V" x="36.83" y="56.769" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="D3" library="Hexabitz" package="SOD123" value="DIOD-SOD-123" x="37.338" y="55.245" smashed="yes" rot="R90">
+<attribute name="CAPACITANCE" value="" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CURRENT" value="2A" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CURRENT_RATING" value="" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="ON Semiconductor" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="NTS245SFT1G" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="35.433" y="53.34" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_ID" value="" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/nts245sft1g-on+semiconductor-53638116?r=sp&amp;s=Zo8Z59f0QcynsgZ2PtBRwg" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="40.513" y="53.34" size="1.016" layer="27" rot="R90"/>
+<attribute name="VOLTAGE_RATING_DC" value="45V" x="37.338" y="55.245" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C24" library="Hexabitz" package="C-0603" value="220nF" x="41.91" y="59.182" smashed="yes">
-<attribute name="CAPACITANCE" value="220nF" x="41.91" y="59.182" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Würth Elektronik" x="41.91" y="59.182" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="885012206048" x="41.91" y="59.182" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.275" y="59.817" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/885012206048-w%C3%BCrth+elektronik-53914757?r=sp&amp;s=r2jVh1M7TTWSNtdrsMd35A" x="41.91" y="59.182" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="41.91" y="59.182" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="41.275" y="57.277" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="16V" x="41.91" y="59.182" size="1.778" layer="27" display="off"/>
+<element name="C24" library="Hexabitz" package="C-0603" value="220nF" x="42.037" y="57.912" smashed="yes" rot="R270">
+<attribute name="CAPACITANCE" value="220nF" x="42.037" y="57.912" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFN" value="Würth Elektronik" x="42.037" y="57.912" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="885012206048" x="42.037" y="57.912" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="42.672" y="58.547" size="1.016" layer="25" rot="R270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012206048-w%C3%BCrth+elektronik-53914757?r=sp&amp;s=r2jVh1M7TTWSNtdrsMd35A" x="42.037" y="57.912" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="42.037" y="57.912" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="40.132" y="58.547" size="1.016" layer="27" rot="R270"/>
+<attribute name="VOLTAGE_RATING" value="16V" x="42.037" y="57.912" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C30" library="Hexabitz" package="C-0603" value="100nF" x="32.893" y="70.739" smashed="yes">
-<attribute name="CAPACITANCE" value="100nF" x="32.893" y="70.739" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="TDK" x="32.893" y="70.739" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="C1608X7R1H104K" x="32.893" y="70.739" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="32.258" y="71.374" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="32.893" y="70.739" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="32.893" y="70.739" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="32.258" y="68.834" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="32.893" y="70.739" size="1.778" layer="27" display="off"/>
+<element name="C30" library="Hexabitz" package="C-0603" value="100nF" x="32.893" y="70.739" smashed="yes" rot="MR180">
+<attribute name="CAPACITANCE" value="100nF" x="32.893" y="70.739" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MFN" value="TDK" x="32.893" y="70.739" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="C1608X7R1H104K" x="32.893" y="70.739" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="NAME" x="32.258" y="70.104" size="1.016" layer="26" rot="MR180"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="32.893" y="70.739" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="32.893" y="70.739" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="VALUE" x="32.258" y="72.644" size="1.016" layer="28" rot="MR180"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="32.893" y="70.739" size="1.778" layer="28" rot="MR180" display="off"/>
 </element>
-<element name="C29" library="Hexabitz" package="C-0805" value="10uF" x="32.893" y="68.453" smashed="yes">
-<attribute name="CAPACITANCE" value="10uF" x="32.893" y="68.453" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Würth Elektronik" x="32.893" y="68.453" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="885012207026" x="32.893" y="68.453" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="31.623" y="69.723" size="1.016" layer="25"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w" x="32.893" y="68.453" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="32.893" y="68.453" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="31.623" y="65.913" size="1.27" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="10V" x="32.893" y="68.453" size="1.778" layer="27" display="off"/>
+<element name="C29" library="Hexabitz" package="C-0805" value="10uF" x="32.893" y="68.453" smashed="yes" rot="MR180">
+<attribute name="CAPACITANCE" value="10uF" x="32.893" y="68.453" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MFN" value="Würth Elektronik" x="32.893" y="68.453" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="885012207026" x="32.893" y="68.453" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="NAME" x="31.623" y="67.183" size="1.016" layer="26" rot="MR180"/>
+<attribute name="OCTOPAR_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w" x="32.893" y="68.453" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="32.893" y="68.453" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="VALUE" x="31.623" y="70.993" size="1.27" layer="28" rot="MR180"/>
+<attribute name="VOLTAGE_RATING" value="10V" x="32.893" y="68.453" size="1.778" layer="28" rot="MR180" display="off"/>
 </element>
-<element name="R15" library="Hexabitz" package="R-0603" value="150" x="39.116" y="54.991" smashed="yes" rot="R270">
-<attribute name="MFN" value="Vishay" x="39.116" y="54.991" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="CRCW0603150RFKEA" x="39.116" y="54.991" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="40.271190625" y="56.47639375" size="1.016" layer="25" rot="R270"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603150rfkea-vishay-39455211?r=sp&amp;s=fhZ4fTqDSW-fVK_X4mehlA" x="39.116" y="54.991" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="RESISTANCE" value="150R" x="39.116" y="54.991" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="39.116" y="54.991" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="37.225984375" y="56.528971875" size="1.016" layer="27" rot="R270"/>
+<element name="R15" library="Hexabitz" package="R-0603" value="150" x="39.751" y="54.483" smashed="yes" rot="R270">
+<attribute name="MFN" value="Vishay" x="39.751" y="54.483" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="CRCW0603150RFKEA" x="39.751" y="54.483" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="40.906190625" y="55.96839375" size="1.016" layer="25" rot="R270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603150rfkea-vishay-39455211?r=sp&amp;s=fhZ4fTqDSW-fVK_X4mehlA" x="39.751" y="54.483" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="RESISTANCE" value="150R" x="39.751" y="54.483" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="39.751" y="54.483" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="37.860984375" y="56.020971875" size="1.016" layer="27" rot="R270"/>
 </element>
-<element name="C23" library="Hexabitz" package="C-0603" value="100pF" x="39.116" y="58.42" smashed="yes" rot="R90">
-<attribute name="CAPACITANCE" value="100pF" x="39.116" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MFN" value="KEMET" x="39.116" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="C0603C101J5GACTU" x="39.116" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="38.481" y="57.785" size="1.016" layer="25" rot="R90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c101j5gactu-kemet-100052?r=sp&amp;s=G9Wafbc2Rs-t41DcITu08w" x="39.116" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="TOLERANCE" value="5%" x="39.116" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="41.021" y="57.785" size="1.016" layer="27" rot="R90"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="39.116" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="C23" library="Hexabitz" package="C-0603" value="100pF" x="39.751" y="57.912" smashed="yes" rot="R90">
+<attribute name="CAPACITANCE" value="100pF" x="39.751" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="KEMET" x="39.751" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="C0603C101J5GACTU" x="39.751" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="39.116" y="57.277" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c101j5gactu-kemet-100052?r=sp&amp;s=G9Wafbc2Rs-t41DcITu08w" x="39.751" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TOLERANCE" value="5%" x="39.751" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="41.656" y="57.277" size="1.016" layer="27" rot="R90"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="39.751" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="D5" library="Hexabitz" package="VLMS1300-GS08" value="GREEN" x="28.194" y="77.47" smashed="yes" rot="R180">
 <attribute name="MFN" value="Vishay" x="28.194" y="77.47" size="1.778" layer="27" rot="R180" display="off"/>
@@ -1771,341 +1771,341 @@ design rules under a new name.</description>
 <attribute name="NAME" x="30.607" y="71.882" size="1.016" layer="26" rot="MR0"/>
 <attribute name="VALUE" x="28.5559" y="70.739" size="0.02" layer="28" rot="MR0"/>
 </element>
-<element name="FB1" library="Hexabitz" package="FB-0603" value="600 Ohm" x="34.036" y="59.563" smashed="yes">
-<attribute name="MFN" value="Murata" x="34.036" y="59.563" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="BLM18KG601SN1D" x="34.036" y="59.563" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="33.401" y="60.198" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/blm18kg601sn1d-murata-12276433?r=sp&amp;s=hc41AUOpRWisdZqqWWZOxA" x="34.036" y="59.563" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="33.401" y="57.658" size="1.016" layer="27"/>
+<element name="FB1" library="Hexabitz" package="FB-0603" value="600 Ohm" x="34.544" y="59.436" smashed="yes">
+<attribute name="MFN" value="Murata" x="34.544" y="59.436" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="BLM18KG601SN1D" x="34.544" y="59.436" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="33.909" y="60.071" size="1.016" layer="25"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/blm18kg601sn1d-murata-12276433?r=sp&amp;s=hc41AUOpRWisdZqqWWZOxA" x="34.544" y="59.436" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="33.909" y="57.531" size="1.016" layer="27"/>
 </element>
-<element name="C3" library="Hexabitz" package="C-0805" value="10uF" x="31.242" y="57.531" smashed="yes" rot="R270">
-<attribute name="CAPACITANCE" value="10uF" x="31.242" y="57.531" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MFN" value="Würth Elektronik" x="31.242" y="57.531" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="885012207026" x="31.242" y="57.531" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="32.512" y="58.801" size="1.016" layer="25" rot="R270"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w" x="31.242" y="57.531" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="31.242" y="57.531" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="28.702" y="58.801" size="1.27" layer="27" rot="R270"/>
-<attribute name="VOLTAGE_RATING" value="10V" x="31.242" y="57.531" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="C3" library="Hexabitz" package="C-0805" value="10uF" x="31.877" y="58.42" smashed="yes" rot="R270">
+<attribute name="CAPACITANCE" value="10uF" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFN" value="Würth Elektronik" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="885012207026" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="33.147" y="59.69" size="1.016" layer="25" rot="R270"/>
+<attribute name="OCTOPAR_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="29.337" y="59.69" size="1.27" layer="27" rot="R270"/>
+<attribute name="VOLTAGE_RATING" value="10V" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C5" library="Hexabitz" package="C-0603" value="100nF" x="28.321" y="58.547" smashed="yes" rot="R180">
-<attribute name="CAPACITANCE" value="100nF" x="28.321" y="58.547" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFN" value="TDK" x="28.321" y="58.547" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="C1608X7R1H104K" x="28.321" y="58.547" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="28.956" y="57.912" size="1.016" layer="25" rot="R180"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="28.321" y="58.547" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="28.321" y="58.547" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="28.956" y="60.452" size="1.016" layer="27" rot="R180"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="28.321" y="58.547" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C5" library="Hexabitz" package="C-0603" value="100nF" x="29.464" y="56.261" smashed="yes" rot="R270">
+<attribute name="CAPACITANCE" value="100nF" x="29.464" y="56.261" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFN" value="TDK" x="29.464" y="56.261" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="C1608X7R1H104K" x="29.464" y="56.261" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="30.099" y="56.896" size="1.016" layer="25" rot="R270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="29.464" y="56.261" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="29.464" y="56.261" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="27.559" y="56.896" size="1.016" layer="27" rot="R270"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="29.464" y="56.261" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="D1" library="Hexabitz" package="SOD123" value="DIOD-SOD-123" x="59.055" y="145.669" smashed="yes">
-<attribute name="CAPACITANCE" value="" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="CURRENT" value="2A" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="CURRENT_RATING" value="" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="ON Semiconductor" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="NTS245SFT1G" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="57.15" y="147.574" size="1.016" layer="25"/>
-<attribute name="OCTOPART_ID" value="" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/nts245sft1g-on+semiconductor-53638116?r=sp&amp;s=Zo8Z59f0QcynsgZ2PtBRwg" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="57.15" y="142.494" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING_DC" value="45V" x="59.055" y="145.669" size="1.778" layer="27" display="off"/>
+<element name="D1" library="Hexabitz" package="SOD123" value="DIOD-SOD-123" x="25.146" y="60.198" smashed="yes" rot="R90">
+<attribute name="CAPACITANCE" value="" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CURRENT" value="2A" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CURRENT_RATING" value="" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="ON Semiconductor" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="NTS245SFT1G" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="23.241" y="58.29299375" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_ID" value="" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/nts245sft1g-on+semiconductor-53638116?r=sp&amp;s=Zo8Z59f0QcynsgZ2PtBRwg" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="28.321" y="58.29299375" size="1.016" layer="27" rot="R90"/>
+<attribute name="VOLTAGE_RATING_DC" value="45V" x="25.146" y="60.198" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C6" library="Hexabitz" package="C-0603" value="100nF" x="37.465" y="64.389" smashed="yes">
-<attribute name="CAPACITANCE" value="100nF" x="37.465" y="64.389" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="TDK" x="37.465" y="64.389" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="C1608X7R1H104K" x="37.465" y="64.389" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.83" y="65.024" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="37.465" y="64.389" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.465" y="64.389" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.83" y="62.484" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="37.465" y="64.389" size="1.778" layer="27" display="off"/>
+<element name="C6" library="Hexabitz" package="C-0603" value="100nF" x="37.084" y="62.611" smashed="yes">
+<attribute name="CAPACITANCE" value="100nF" x="37.084" y="62.611" size="1.778" layer="27" display="off"/>
+<attribute name="MFN" value="TDK" x="37.084" y="62.611" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="C1608X7R1H104K" x="37.084" y="62.611" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="36.449" y="63.246" size="1.016" layer="25"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="37.084" y="62.611" size="1.778" layer="27" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="37.084" y="62.611" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="36.449" y="60.706" size="1.016" layer="27"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="37.084" y="62.611" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R4" library="Hexabitz" package="R-0603" value="100.0" x="36.83" y="61.722" smashed="yes" rot="R270">
-<attribute name="MFN" value="Vishay" x="36.83" y="61.722" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="CRCW0603100RFKEA" x="36.83" y="61.722" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="37.985190625" y="63.20739375" size="1.016" layer="25" rot="R270"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603100rfkea-vishay-39454046?r=sp&amp;s=ZCLXy-8WTNaYdj0NMUzO0A" x="36.83" y="61.722" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="RESISTANCE" value="100.0" x="36.83" y="61.722" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="36.83" y="61.722" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="34.939984375" y="63.259971875" size="1.016" layer="27" rot="R270"/>
+<element name="R4" library="Hexabitz" package="R-0603" value="100.0" x="37.338" y="59.944" smashed="yes" rot="R270">
+<attribute name="MFN" value="Vishay" x="37.338" y="59.944" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="CRCW0603100RFKEA" x="37.338" y="59.944" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="38.493190625" y="61.42939375" size="1.016" layer="25" rot="R270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603100rfkea-vishay-39454046?r=sp&amp;s=ZCLXy-8WTNaYdj0NMUzO0A" x="37.338" y="59.944" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="RESISTANCE" value="100.0" x="37.338" y="59.944" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="37.338" y="59.944" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="35.447984375" y="61.481971875" size="1.016" layer="27" rot="R270"/>
 </element>
-<element name="L2" library="Hexabitz" package="WUERTH_ELEKTRONIK_74404024100_0" value="10uH" x="29.21" y="61.341" smashed="yes" rot="R90">
-<attribute name="CIIVA_IDS" value="19365520" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="COMPONENT_LINK_1_DESCRIPTION" value="Manufacturer URL" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="COMPONENT_LINK_1_URL" value="http://www.we-online.com" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DATASHEET" value="http://katalog.we-online.de/pbs/datasheet/74404024100.pdf" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="FOOTPRINT_VARIANT_NAME_0" value="Manufacturer Recommended" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="IMPORTED" value="yes" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="IMPORTED_FROM" value="vault" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="IMPORT_TS" value="1521847971" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="INDUCTANCE" value="10.0 ÂμH" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Wuerth Elektronik" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MFN" value="Wuerth Elektronik" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="74404024100" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="27.96" y="58.516" size="1" layer="25" rot="R90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/74404024100-w%C3%BCrth+elektronik-46948232?r=sp&amp;s=xErvwIUSShuUNbZJf5Tacg#CadModels" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PACKAGE" value="WE-LQS 252012" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PREFIX" value="L" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="RELEASE_DATE" value="1421136684" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VAULT_GUID" value="14C676CA-5921-489C-B22D-D02530F94C47" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VAULT_REVISION" value="1C5BE5AF-1DED-48F4-87F1-C018B46CE48A" x="29.21" y="61.341" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="L2" library="Hexabitz" package="WUERTH_ELEKTRONIK_74404024100_0" value="10uH" x="29.464" y="59.563" smashed="yes" rot="R90">
+<attribute name="CIIVA_IDS" value="19365520" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="COMPONENT_LINK_1_DESCRIPTION" value="Manufacturer URL" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="COMPONENT_LINK_1_URL" value="http://www.we-online.com" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DATASHEET" value="http://katalog.we-online.de/pbs/datasheet/74404024100.pdf" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="FOOTPRINT_VARIANT_NAME_0" value="Manufacturer Recommended" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="IMPORTED" value="yes" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="IMPORTED_FROM" value="vault" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="IMPORT_TS" value="1521847971" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="INDUCTANCE" value="10.0 ÂμH" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Wuerth Elektronik" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="Wuerth Elektronik" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="74404024100" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="28.214" y="56.738" size="1" layer="25" rot="R90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/74404024100-w%C3%BCrth+elektronik-46948232?r=sp&amp;s=xErvwIUSShuUNbZJf5Tacg#CadModels" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="WE-LQS 252012" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PREFIX" value="L" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="RELEASE_DATE" value="1421136684" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VAULT_GUID" value="14C676CA-5921-489C-B22D-D02530F94C47" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VAULT_REVISION" value="1C5BE5AF-1DED-48F4-87F1-C018B46CE48A" x="29.464" y="59.563" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C10" library="Hexabitz" package="C-0603" value="4700pF" x="57.658" y="121.031" smashed="yes">
-<attribute name="CAPACITANCE" value="4700pF" x="57.658" y="121.031" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Würth Elektronik" x="57.658" y="121.031" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="885012206087" x="57.658" y="121.031" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="57.023" y="121.666" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/885012206087-w%C3%BCrth+elektronik-53914796?r=sp&amp;s=1K2nhhCgSUq-KN0bvB69Uw" x="57.658" y="121.031" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="57.658" y="121.031" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="57.023" y="119.126" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="57.658" y="121.031" size="1.778" layer="27" display="off"/>
+<element name="C10" library="Hexabitz" package="C-0603" value="4700pF" x="29.718" y="68.834" smashed="yes" rot="R90">
+<attribute name="CAPACITANCE" value="4700pF" x="29.718" y="68.834" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="Würth Elektronik" x="29.718" y="68.834" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="885012206087" x="29.718" y="68.834" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="29.083" y="68.199" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012206087-w%C3%BCrth+elektronik-53914796?r=sp&amp;s=1K2nhhCgSUq-KN0bvB69Uw" x="29.718" y="68.834" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="29.718" y="68.834" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="31.623" y="68.199" size="1.016" layer="27" rot="R90"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="29.718" y="68.834" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C15" library="Hexabitz" package="C-0603" value="10nF" x="57.658" y="116.459" smashed="yes">
-<attribute name="CAPACITANCE" value="10nF" x="57.658" y="116.459" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Würth Elektronik" x="57.658" y="116.459" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="885012206040" x="57.658" y="116.459" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="57.023" y="117.094" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/885012206040-w%C3%BCrth+elektronik-53914749?r=sp&amp;s=G3_ezLbARM2-FohtMFECqg" x="57.658" y="116.459" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="57.658" y="116.459" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="57.023" y="114.554" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="16V" x="57.658" y="116.459" size="1.778" layer="27" display="off"/>
+<element name="C15" library="Hexabitz" package="C-0603" value="10nF" x="29.083" y="65.278" smashed="yes" rot="R180">
+<attribute name="CAPACITANCE" value="10nF" x="29.083" y="65.278" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFN" value="Würth Elektronik" x="29.083" y="65.278" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="885012206040" x="29.083" y="65.278" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="29.718" y="64.643" size="1.016" layer="25" rot="R180"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012206040-w%C3%BCrth+elektronik-53914749?r=sp&amp;s=G3_ezLbARM2-FohtMFECqg" x="29.083" y="65.278" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="29.083" y="65.278" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="29.718" y="67.183" size="1.016" layer="27" rot="R180"/>
+<attribute name="VOLTAGE_RATING" value="16V" x="29.083" y="65.278" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="L3" library="Hexabitz" package="WUERTH_ELEKTRONIK_74404024100_0" value="10uH" x="59.436" y="111.252" smashed="yes">
-<attribute name="CIIVA_IDS" value="19365520" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="COMPONENT_LINK_1_DESCRIPTION" value="Manufacturer URL" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="COMPONENT_LINK_1_URL" value="http://www.we-online.com" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET" value="http://katalog.we-online.de/pbs/datasheet/74404024100.pdf" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="FOOTPRINT_VARIANT_NAME_0" value="Manufacturer Recommended" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="IMPORTED" value="yes" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="IMPORTED_FROM" value="vault" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="IMPORT_TS" value="1521847971" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="INDUCTANCE" value="10.0 ÂμH" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Wuerth Elektronik" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Wuerth Elektronik" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="74404024100" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="56.611" y="112.502" size="1" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/74404024100-w%C3%BCrth+elektronik-46948232?r=sp&amp;s=xErvwIUSShuUNbZJf5Tacg#CadModels" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="PACKAGE" value="WE-LQS 252012" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="PREFIX" value="L" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="RELEASE_DATE" value="1421136684" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="VAULT_GUID" value="14C676CA-5921-489C-B22D-D02530F94C47" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
-<attribute name="VAULT_REVISION" value="1C5BE5AF-1DED-48F4-87F1-C018B46CE48A" x="59.436" y="111.252" size="1.778" layer="27" display="off"/>
+<element name="L3" library="Hexabitz" package="WUERTH_ELEKTRONIK_74404024100_0" value="10uH" x="37.084" y="65.024" smashed="yes">
+<attribute name="CIIVA_IDS" value="19365520" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="COMPONENT_LINK_1_DESCRIPTION" value="Manufacturer URL" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="COMPONENT_LINK_1_URL" value="http://www.we-online.com" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="DATASHEET" value="http://katalog.we-online.de/pbs/datasheet/74404024100.pdf" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="FOOTPRINT_VARIANT_NAME_0" value="Manufacturer Recommended" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="IMPORTED" value="yes" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="IMPORTED_FROM" value="vault" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="IMPORT_TS" value="1521847971" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="INDUCTANCE" value="10.0 ÂμH" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Wuerth Elektronik" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="MFN" value="Wuerth Elektronik" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="74404024100" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="34.259" y="66.274" size="1" layer="25"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/74404024100-w%C3%BCrth+elektronik-46948232?r=sp&amp;s=xErvwIUSShuUNbZJf5Tacg#CadModels" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="WE-LQS 252012" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="PREFIX" value="L" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="RELEASE_DATE" value="1421136684" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="VAULT_GUID" value="14C676CA-5921-489C-B22D-D02530F94C47" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
+<attribute name="VAULT_REVISION" value="1C5BE5AF-1DED-48F4-87F1-C018B46CE48A" x="37.084" y="65.024" size="1.778" layer="27" display="off"/>
 </element>
-<element name="D2" library="Hexabitz" package="SOD123" value="DIOD-SOD-123" x="52.451" y="113.665" smashed="yes">
-<attribute name="CAPACITANCE" value="" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="CURRENT" value="2A" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="CURRENT_RATING" value="" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="ON Semiconductor" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="NTS245SFT1G" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="50.546" y="115.57" size="1.016" layer="25"/>
-<attribute name="OCTOPART_ID" value="" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/nts245sft1g-on+semiconductor-53638116?r=sp&amp;s=Zo8Z59f0QcynsgZ2PtBRwg" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="50.546" y="110.49" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING_DC" value="45V" x="52.451" y="113.665" size="1.778" layer="27" display="off"/>
+<element name="D2" library="Hexabitz" package="SOD123" value="DIOD-SOD-123" x="36.195" y="67.437" smashed="yes">
+<attribute name="CAPACITANCE" value="" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="CURRENT" value="2A" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="CURRENT_RATING" value="" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="MFN" value="ON Semiconductor" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="NTS245SFT1G" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="34.29" y="69.342" size="1.016" layer="25"/>
+<attribute name="OCTOPART_ID" value="" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/nts245sft1g-on+semiconductor-53638116?r=sp&amp;s=Zo8Z59f0QcynsgZ2PtBRwg" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="34.29" y="64.262" size="1.016" layer="27"/>
+<attribute name="VOLTAGE_RATING_DC" value="45V" x="36.195" y="67.437" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R17" library="Hexabitz" package="R-0603" value="1.00" x="51.562" y="102.235" smashed="yes">
-<attribute name="MFN" value="Vishay-Dale" x="51.562" y="102.235" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW06031R00FKEA" x="51.562" y="102.235" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="50.07660625" y="103.390190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031r00fkea-vishay-39713722?r=sp&amp;s=biXSlGylTBiwPOCcABx_kA" x="51.562" y="102.235" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="1.00" x="51.562" y="102.235" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="51.562" y="102.235" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="50.024028125" y="100.344984375" size="1.016" layer="27"/>
+<element name="R17" library="Hexabitz" package="R-0603" value="1.00" x="40.64" y="64.262" smashed="yes" rot="MR240">
+<attribute name="MFN" value="Vishay-Dale" x="40.64" y="64.262" size="1.778" layer="28" rot="MR240" display="off"/>
+<attribute name="MPN" value="CRCW06031R00FKEA" x="40.64" y="64.262" size="1.778" layer="28" rot="MR240" display="off"/>
+<attribute name="NAME" x="38.896878125" y="64.97079375" size="1.016" layer="26" rot="MR240"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031r00fkea-vishay-39713722?r=sp&amp;s=biXSlGylTBiwPOCcABx_kA" x="40.64" y="64.262" size="1.778" layer="28" rot="MR240" display="off"/>
+<attribute name="RESISTANCE" value="1.00" x="40.64" y="64.262" size="1.778" layer="28" rot="MR240" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="40.64" y="64.262" size="1.778" layer="28" rot="MR240" display="off"/>
+<attribute name="VALUE" x="41.507815625" y="66.53893125" size="1.016" layer="28" rot="MR240"/>
 </element>
-<element name="R16" library="Hexabitz" package="R-0603" value="1.00" x="51.562" y="97.155" smashed="yes">
-<attribute name="MFN" value="Vishay-Dale" x="51.562" y="97.155" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW06031R00FKEA" x="51.562" y="97.155" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="50.07660625" y="98.310190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031r00fkea-vishay-39713722?r=sp&amp;s=biXSlGylTBiwPOCcABx_kA" x="51.562" y="97.155" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="1.00" x="51.562" y="97.155" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="51.562" y="97.155" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="50.024028125" y="95.264984375" size="1.016" layer="27"/>
+<element name="R16" library="Hexabitz" package="R-0603" value="1.00" x="25.146" y="63.246" smashed="yes" rot="MR30">
+<attribute name="MFN" value="Vishay-Dale" x="25.146" y="63.246" size="1.778" layer="28" rot="MR30" display="off"/>
+<attribute name="MPN" value="CRCW06031R00FKEA" x="25.146" y="63.246" size="1.778" layer="28" rot="MR30" display="off"/>
+<attribute name="NAME" x="27.009984375" y="63.503725" size="1.016" layer="26" rot="MR30"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031r00fkea-vishay-39713722?r=sp&amp;s=biXSlGylTBiwPOCcABx_kA" x="25.146" y="63.246" size="1.778" layer="28" rot="MR30" display="off"/>
+<attribute name="RESISTANCE" value="1.00" x="25.146" y="63.246" size="1.778" layer="28" rot="MR30" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="25.146" y="63.246" size="1.778" layer="28" rot="MR30" display="off"/>
+<attribute name="VALUE" x="25.532915625" y="60.8402125" size="1.016" layer="28" rot="MR30"/>
 </element>
-<element name="C19" library="Hexabitz" package="C-0603" value="100nF" x="51.054" y="92.583" smashed="yes">
-<attribute name="CAPACITANCE" value="100nF" x="51.054" y="92.583" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="TDK" x="51.054" y="92.583" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="C1608X7R1H104K" x="51.054" y="92.583" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="50.419" y="93.218" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="51.054" y="92.583" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="51.054" y="92.583" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="50.419" y="90.678" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="51.054" y="92.583" size="1.778" layer="27" display="off"/>
+<element name="C19" library="Hexabitz" package="C-0603" value="100nF" x="37.338" y="67.945" smashed="yes" rot="MR270">
+<attribute name="CAPACITANCE" value="100nF" x="37.338" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MFN" value="TDK" x="37.338" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MPN" value="C1608X7R1H104K" x="37.338" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="NAME" x="36.703" y="68.58" size="1.016" layer="26" rot="MR270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="37.338" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="37.338" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="VALUE" x="39.243" y="68.58" size="1.016" layer="28" rot="MR270"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="37.338" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="C18" library="Hexabitz" package="C-0603" value="100nF" x="37.084" y="215.646" smashed="yes">
-<attribute name="CAPACITANCE" value="100nF" x="37.084" y="215.646" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="TDK" x="37.084" y="215.646" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="C1608X7R1H104K" x="37.084" y="215.646" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.449" y="216.281" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="37.084" y="215.646" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.084" y="215.646" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.449" y="213.741" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="37.084" y="215.646" size="1.778" layer="27" display="off"/>
+<element name="C18" library="Hexabitz" package="C-0603" value="100nF" x="30.226" y="61.341" smashed="yes" rot="MR270">
+<attribute name="CAPACITANCE" value="100nF" x="30.226" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MFN" value="TDK" x="30.226" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MPN" value="C1608X7R1H104K" x="30.226" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="NAME" x="29.591" y="61.976" size="1.016" layer="26" rot="MR270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/c1608x7r1h104k080aa-tdk-25947665?r=sp&amp;s=vJ3_28x5RGekN18MBHqpKw" x="30.226" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="30.226" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="VALUE" x="32.131" y="61.976" size="1.016" layer="28" rot="MR270"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="30.226" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="C22" library="Hexabitz" package="C-0603" value="1uF" x="48.514" y="75.184" smashed="yes" rot="R180">
-<attribute name="CAPACITANCE" value="1uF" x="48.514" y="75.184" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFN" value="Taiyo Yuden" x="48.514" y="75.184" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="TMK107B7105KA-T" x="48.514" y="75.184" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="49.149" y="74.549" size="1.016" layer="25" rot="R180"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/tmk107b7105ka-t-taiyo+yuden-20363789?r=sp&amp;s=C0MvDSixSxq0oU7K_M5ppQ" x="48.514" y="75.184" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="48.514" y="75.184" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="49.149" y="77.089" size="1.016" layer="27" rot="R180"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="48.514" y="75.184" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C22" library="Hexabitz" package="C-0603" value="1uF" x="39.751" y="67.945" smashed="yes" rot="MR270">
+<attribute name="CAPACITANCE" value="1uF" x="39.751" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MFN" value="Taiyo Yuden" x="39.751" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MPN" value="TMK107B7105KA-T" x="39.751" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="NAME" x="39.116" y="68.58" size="1.016" layer="26" rot="MR270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/tmk107b7105ka-t-taiyo+yuden-20363789?r=sp&amp;s=C0MvDSixSxq0oU7K_M5ppQ" x="39.751" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="39.751" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="VALUE" x="41.656" y="68.58" size="1.016" layer="28" rot="MR270"/>
+<attribute name="VOLTAGE_RATING" value="25V" x="39.751" y="67.945" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="C21" library="Hexabitz" package="C-0603" value="1uF" x="37.084" y="206.502" smashed="yes">
-<attribute name="CAPACITANCE" value="1uF" x="37.084" y="206.502" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Taiyo Yuden" x="37.084" y="206.502" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="TMK107B7105KA-T" x="37.084" y="206.502" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.449" y="207.137" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/tmk107b7105ka-t-taiyo+yuden-20363789?r=sp&amp;s=C0MvDSixSxq0oU7K_M5ppQ" x="37.084" y="206.502" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.084" y="206.502" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.449" y="204.597" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="37.084" y="206.502" size="1.778" layer="27" display="off"/>
+<element name="C21" library="Hexabitz" package="C-0603" value="1uF" x="27.686" y="61.341" smashed="yes" rot="MR270">
+<attribute name="CAPACITANCE" value="1uF" x="27.686" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MFN" value="Taiyo Yuden" x="27.686" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MPN" value="TMK107B7105KA-T" x="27.686" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="NAME" x="27.051" y="61.976" size="1.016" layer="26" rot="MR270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/tmk107b7105ka-t-taiyo+yuden-20363789?r=sp&amp;s=C0MvDSixSxq0oU7K_M5ppQ" x="27.686" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="27.686" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="VALUE" x="29.591" y="61.976" size="1.016" layer="28" rot="MR270"/>
+<attribute name="VOLTAGE_RATING" value="25V" x="27.686" y="61.341" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="C27" library="Hexabitz" package="C-0805" value="10uF" x="37.592" y="200.914" smashed="yes">
-<attribute name="CAPACITANCE" value="10uF" x="37.592" y="200.914" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Murata" x="37.592" y="200.914" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GRM21BC71E106KE11L" x="37.592" y="200.914" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.322" y="202.184" size="1.016" layer="25"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="37.592" y="200.914" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.592" y="200.914" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.322" y="198.374" size="1.27" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="37.592" y="200.914" size="1.778" layer="27" display="off"/>
+<element name="C27" library="Hexabitz" package="C-0805" value="10uF" x="22.225" y="63.881" smashed="yes" rot="MR300">
+<attribute name="CAPACITANCE" value="10uF" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="MFN" value="Murata" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="MPN" value="GRM21BC71E106KE11L" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="NAME" x="21.76015" y="65.615853125" size="1.016" layer="26" rot="MR300"/>
+<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="VALUE" x="25.05970625" y="63.710853125" size="1.27" layer="28" rot="MR300"/>
+<attribute name="VOLTAGE_RATING" value="25V" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
 </element>
-<element name="C25" library="Hexabitz" package="C-0805" value="10uF" x="37.592" y="194.691" smashed="yes">
-<attribute name="CAPACITANCE" value="10uF" x="37.592" y="194.691" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Murata" x="37.592" y="194.691" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GRM21BC71E106KE11L" x="37.592" y="194.691" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.322" y="195.961" size="1.016" layer="25"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="37.592" y="194.691" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.592" y="194.691" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.322" y="192.151" size="1.27" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="37.592" y="194.691" size="1.778" layer="27" display="off"/>
+<element name="C25" library="Hexabitz" package="C-0805" value="10uF" x="20.193" y="65.024" smashed="yes" rot="MR300">
+<attribute name="CAPACITANCE" value="10uF" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="MFN" value="Murata" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="MPN" value="GRM21BC71E106KE11L" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="NAME" x="19.72815" y="66.758853125" size="1.016" layer="26" rot="MR300"/>
+<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="VALUE" x="23.02770625" y="64.853853125" size="1.27" layer="28" rot="MR300"/>
+<attribute name="VOLTAGE_RATING" value="25V" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
 </element>
-<element name="C26" library="Hexabitz" package="C-0805" value="10uF" x="37.592" y="188.468" smashed="yes">
-<attribute name="CAPACITANCE" value="10uF" x="37.592" y="188.468" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Murata" x="37.592" y="188.468" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GRM21BC71E106KE11L" x="37.592" y="188.468" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.322" y="189.738" size="1.016" layer="25"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="37.592" y="188.468" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.592" y="188.468" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.322" y="185.928" size="1.27" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="37.592" y="188.468" size="1.778" layer="27" display="off"/>
+<element name="C26" library="Hexabitz" package="C-0805" value="10uF" x="43.561" y="63.754" smashed="yes" rot="MR60">
+<attribute name="CAPACITANCE" value="10uF" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="MFN" value="Murata" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="MPN" value="GRM21BC71E106KE11L" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="NAME" x="45.295853125" y="63.289146875" size="1.016" layer="26" rot="MR60"/>
+<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="VALUE" x="41.996296875" y="61.384146875" size="1.27" layer="28" rot="MR60"/>
+<attribute name="VOLTAGE_RATING" value="25V" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
 </element>
-<element name="C28" library="Hexabitz" package="C-0805" value="10uF" x="37.592" y="182.245" smashed="yes">
-<attribute name="CAPACITANCE" value="10uF" x="37.592" y="182.245" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Murata" x="37.592" y="182.245" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GRM21BC71E106KE11L" x="37.592" y="182.245" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.322" y="183.515" size="1.016" layer="25"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="37.592" y="182.245" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.592" y="182.245" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.322" y="179.705" size="1.27" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="37.592" y="182.245" size="1.778" layer="27" display="off"/>
+<element name="C28" library="Hexabitz" package="C-0805" value="10uF" x="45.72" y="65.024" smashed="yes" rot="MR60">
+<attribute name="CAPACITANCE" value="10uF" x="45.72" y="65.024" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="MFN" value="Murata" x="45.72" y="65.024" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="MPN" value="GRM21BC71E106KE11L" x="45.72" y="65.024" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="NAME" x="47.454853125" y="64.55914375" size="1.016" layer="26" rot="MR60"/>
+<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q" x="45.72" y="65.024" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="45.72" y="65.024" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="VALUE" x="44.155296875" y="62.654146875" size="1.27" layer="28" rot="MR60"/>
+<attribute name="VOLTAGE_RATING" value="25V" x="45.72" y="65.024" size="1.778" layer="28" rot="MR60" display="off"/>
 </element>
-<element name="R6" library="Hexabitz" package="R-0603" value="105K" x="37.592" y="176.53" smashed="yes">
-<attribute name="MFN" value="Vishay" x="37.592" y="176.53" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW0603105KFKEA" x="37.592" y="176.53" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.10660625" y="177.685190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603105kfkea-vishay-39783419?r=sp&amp;s=m57LqOW9SZi8auMTWgZAuA" x="37.592" y="176.53" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="105K" x="37.592" y="176.53" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="37.592" y="176.53" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.054028125" y="174.639984375" size="1.016" layer="27"/>
+<element name="R6" library="Hexabitz" package="R-0603" value="105K" x="32.004" y="67.056" smashed="yes" rot="R90">
+<attribute name="MFN" value="Vishay" x="32.004" y="67.056" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="CRCW0603105KFKEA" x="32.004" y="67.056" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="30.848809375" y="65.57060625" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603105kfkea-vishay-39783419?r=sp&amp;s=m57LqOW9SZi8auMTWgZAuA" x="32.004" y="67.056" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="RESISTANCE" value="105K" x="32.004" y="67.056" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="32.004" y="67.056" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="33.894015625" y="65.518028125" size="1.016" layer="27" rot="R90"/>
 </element>
-<element name="R10" library="Hexabitz" package="R-0603" value="1.30M" x="37.592" y="171.45" smashed="yes">
-<attribute name="MFN" value="Vishay" x="37.592" y="171.45" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW06031M30FKEA" x="37.592" y="171.45" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.10660625" y="172.605190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031m30fkea-vishay-39601140?r=sp&amp;s=IFmbrVO2QdmVcSmXO7E1AA" x="37.592" y="171.45" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="1.30M" x="37.592" y="171.45" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="37.592" y="171.45" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.054028125" y="169.559984375" size="1.016" layer="27"/>
+<element name="R10" library="Hexabitz" package="R-0603" value="1.30M" x="34.544" y="69.088" smashed="yes" rot="R180">
+<attribute name="MFN" value="Vishay" x="34.544" y="69.088" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="CRCW06031M30FKEA" x="34.544" y="69.088" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="36.02939375" y="67.932809375" size="1.016" layer="25" rot="R180"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031m30fkea-vishay-39601140?r=sp&amp;s=IFmbrVO2QdmVcSmXO7E1AA" x="34.544" y="69.088" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="RESISTANCE" value="1.30M" x="34.544" y="69.088" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="34.544" y="69.088" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="36.081971875" y="70.978015625" size="1.016" layer="27" rot="R180"/>
 </element>
-<element name="C12" library="Hexabitz" package="C-0603" value="5.6pF" x="37.084" y="166.878" smashed="yes">
-<attribute name="CAPACITANCE" value="5.6pF" x="37.084" y="166.878" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="TDK" x="37.084" y="166.878" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="06035A5R6CAT2A" x="37.084" y="166.878" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.449" y="167.513" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/06035a5r6cat2a-avx-194782?r=sp&amp;s=arSRmqwrS2KePu_erVaGmg" x="37.084" y="166.878" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="5%" x="37.084" y="166.878" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.449" y="164.973" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="37.084" y="166.878" size="1.778" layer="27" display="off"/>
+<element name="C12" library="Hexabitz" package="C-0603" value="5.6pF" x="34.671" y="70.866" smashed="yes">
+<attribute name="CAPACITANCE" value="5.6pF" x="34.671" y="70.866" size="1.778" layer="27" display="off"/>
+<attribute name="MFN" value="TDK" x="34.671" y="70.866" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="06035A5R6CAT2A" x="34.671" y="70.866" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="34.036" y="71.501" size="1.016" layer="25"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/06035a5r6cat2a-avx-194782?r=sp&amp;s=arSRmqwrS2KePu_erVaGmg" x="34.671" y="70.866" size="1.778" layer="27" display="off"/>
+<attribute name="TOLERANCE" value="5%" x="34.671" y="70.866" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="34.036" y="68.961" size="1.016" layer="27"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="34.671" y="70.866" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R11" library="Hexabitz" package="R-0603" value="86.6K" x="37.592" y="161.798" smashed="yes">
-<attribute name="MFN" value="Vishay" x="37.592" y="161.798" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW060386K6FKEA" x="37.592" y="161.798" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.10660625" y="162.953190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw060386k6fkea-vishay-39809057?r=sp&amp;s=kiKKot43Sa6nkjOnoApb7Q" x="37.592" y="161.798" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="86.6K" x="37.592" y="161.798" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="37.592" y="161.798" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.054028125" y="159.907984375" size="1.016" layer="27"/>
+<element name="R11" library="Hexabitz" package="R-0603" value="86.6K" x="26.162" y="65.659" smashed="yes" rot="R240">
+<attribute name="MFN" value="Vishay" x="26.162" y="65.659" size="1.778" layer="27" rot="R240" display="off"/>
+<attribute name="MPN" value="CRCW060386K6FKEA" x="26.162" y="65.659" size="1.778" layer="27" rot="R240" display="off"/>
+<attribute name="NAME" x="27.905121875" y="66.36779375" size="1.016" layer="25" rot="R240"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw060386k6fkea-vishay-39809057?r=sp&amp;s=kiKKot43Sa6nkjOnoApb7Q" x="26.162" y="65.659" size="1.778" layer="27" rot="R240" display="off"/>
+<attribute name="RESISTANCE" value="86.6K" x="26.162" y="65.659" size="1.778" layer="27" rot="R240" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="26.162" y="65.659" size="1.778" layer="27" rot="R240" display="off"/>
+<attribute name="VALUE" x="25.2941875" y="67.93593125" size="1.016" layer="27" rot="R240"/>
 </element>
-<element name="C16" library="Hexabitz" package="C-0603" value="220nF" x="37.084" y="157.226" smashed="yes">
-<attribute name="CAPACITANCE" value="220nF" x="37.084" y="157.226" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="Würth Elektronik" x="37.084" y="157.226" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="885012206048" x="37.084" y="157.226" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.449" y="157.861" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/885012206048-w%C3%BCrth+elektronik-53914757?r=sp&amp;s=r2jVh1M7TTWSNtdrsMd35A" x="37.084" y="157.226" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.084" y="157.226" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.449" y="155.321" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="16V" x="37.084" y="157.226" size="1.778" layer="27" display="off"/>
+<element name="C16" library="Hexabitz" package="C-0603" value="220nF" x="32.004" y="70.358" smashed="yes" rot="R90">
+<attribute name="CAPACITANCE" value="220nF" x="32.004" y="70.358" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="Würth Elektronik" x="32.004" y="70.358" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="885012206048" x="32.004" y="70.358" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="31.369" y="69.723" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012206048-w%C3%BCrth+elektronik-53914757?r=sp&amp;s=r2jVh1M7TTWSNtdrsMd35A" x="32.004" y="70.358" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="32.004" y="70.358" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="33.909" y="69.723" size="1.016" layer="27" rot="R90"/>
+<attribute name="VOLTAGE_RATING" value="16V" x="32.004" y="70.358" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="R7" library="Hexabitz" package="R-0603" value="976K" x="37.592" y="152.146" smashed="yes">
-<attribute name="MFN" value="Vishay" x="37.592" y="152.146" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW0603976KFKEA" x="37.592" y="152.146" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.10660625" y="153.301190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603976kfkea-vishay-39847458?r=sp&amp;s=cUxC9lyxRzee74EppCoygA" x="37.592" y="152.146" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="976K" x="37.592" y="152.146" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="37.592" y="152.146" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.054028125" y="150.255984375" size="1.016" layer="27"/>
+<element name="R7" library="Hexabitz" package="R-0603" value="976K" x="29.464" y="62.738" smashed="yes" rot="R90">
+<attribute name="MFN" value="Vishay" x="29.464" y="62.738" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="CRCW0603976KFKEA" x="29.464" y="62.738" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="28.308809375" y="61.25260625" size="1.016" layer="25" rot="R90"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw0603976kfkea-vishay-39847458?r=sp&amp;s=cUxC9lyxRzee74EppCoygA" x="29.464" y="62.738" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="RESISTANCE" value="976K" x="29.464" y="62.738" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="29.464" y="62.738" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="31.354015625" y="61.200028125" size="1.016" layer="27" rot="R90"/>
 </element>
-<element name="C13" library="Hexabitz" package="C-0603" value="6.8pF" x="37.084" y="147.574" smashed="yes">
-<attribute name="CAPACITANCE" value="6.8pF" x="37.084" y="147.574" size="1.778" layer="27" display="off"/>
-<attribute name="MFN" value="AVX" x="37.084" y="147.574" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="06035A6R8CAT2A" x="37.084" y="147.574" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.449" y="148.209" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/06035a6r8cat2a-avx-194783?r=sp&amp;s=5-5NBtM6RDWLTSW9K30eVg" x="37.084" y="147.574" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="37.084" y="147.574" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.449" y="145.669" size="1.016" layer="27"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="37.084" y="147.574" size="1.778" layer="27" display="off"/>
+<element name="C13" library="Hexabitz" package="C-0603" value="6.8pF" x="27.178" y="62.738" smashed="yes" rot="R270">
+<attribute name="CAPACITANCE" value="6.8pF" x="27.178" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFN" value="AVX" x="27.178" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="06035A6R8CAT2A" x="27.178" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="27.813" y="63.373" size="1.016" layer="25" rot="R270"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/06035a6r8cat2a-avx-194783?r=sp&amp;s=5-5NBtM6RDWLTSW9K30eVg" x="27.178" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TOLERANCE" value="10%" x="27.178" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="25.273" y="63.373" size="1.016" layer="27" rot="R270"/>
+<attribute name="VOLTAGE_RATING" value="50V" x="27.178" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="SJ1" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="37.719" y="142.113" smashed="yes">
-<attribute name="NAME" x="36.068" y="143.256" size="1.016" layer="25"/>
-<attribute name="VALUE" x="38.1191" y="142.113" size="0.02" layer="27"/>
+<element name="SJ1" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="22.987" y="63.373" smashed="yes" rot="R240">
+<attribute name="NAME" x="24.04036875" y="62.8343125" size="1.016" layer="25" rot="R240"/>
+<attribute name="VALUE" x="22.786953125" y="63.02650625" size="0.02" layer="27" rot="R240"/>
 </element>
-<element name="R19" library="Hexabitz" package="R-0603" value="5.36K" x="37.592" y="138.303" smashed="yes">
-<attribute name="MFN" value="Vishay" x="37.592" y="138.303" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW06035K36FKEA" x="37.592" y="138.303" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="36.10660625" y="139.458190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06035k36fkea-vishay-39850082?r=sp&amp;s=UzQdyXKeQlK-zUZHNwTiSQ" x="37.592" y="138.303" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="5.36K" x="37.592" y="138.303" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="37.592" y="138.303" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="36.054028125" y="136.412984375" size="1.016" layer="27"/>
+<element name="R19" library="Hexabitz" package="R-0603" value="5.36K" x="20.066" y="64.135" smashed="yes" rot="R150">
+<attribute name="MFN" value="Vishay" x="20.066" y="64.135" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="MPN" value="CRCW06035K36FKEA" x="20.066" y="64.135" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="NAME" x="22.552796875" y="65.312878125" size="1.016" layer="25" rot="R150"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06035k36fkea-vishay-39850082?r=sp&amp;s=UzQdyXKeQlK-zUZHNwTiSQ" x="20.066" y="64.135" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="RESISTANCE" value="5.36K" x="20.066" y="64.135" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="20.066" y="64.135" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="VALUE" x="22.342934375" y="65.002815625" size="1.016" layer="27" rot="R150"/>
 </element>
-<element name="D4" library="Hexabitz" package="VLMS1300-GS08" value="GREEN" x="31.877" y="139.319" smashed="yes">
-<attribute name="MFN" value="Vishay" x="31.877" y="139.319" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="VLMTG1300-GS08" x="31.877" y="139.319" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="29.877" y="140.819" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/vlmtg1300-gs08-vishay-21709202" x="31.877" y="139.319" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="29.877" y="136.444" size="1.016" layer="27"/>
+<element name="D4" library="Hexabitz" package="VLMS1300-GS08" value="GREEN" x="18.669" y="66.929" smashed="yes" rot="R150">
+<attribute name="MFN" value="Vishay" x="18.669" y="66.929" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="MPN" value="VLMTG1300-GS08" x="18.669" y="66.929" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="NAME" x="19.698040625" y="67.530053125" size="1.016" layer="25" rot="R240"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/vlmtg1300-gs08-vishay-21709202" x="18.669" y="66.929" size="1.778" layer="27" rot="R150" display="off"/>
+<attribute name="VALUE" x="21.838553125" y="68.418821875" size="1.016" layer="27" rot="R150"/>
 </element>
-<element name="SJ2" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="31.623" y="132.842" smashed="yes">
-<attribute name="NAME" x="29.972" y="133.985" size="1.016" layer="25"/>
-<attribute name="VALUE" x="32.0231" y="132.842" size="0.02" layer="27"/>
+<element name="SJ2" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="42.545" y="63.5" smashed="yes" rot="R120">
+<attribute name="NAME" x="42.380640625" y="61.498684375" size="1.016" layer="25" rot="R120"/>
+<attribute name="VALUE" x="42.34495625" y="63.846490625" size="0.02" layer="27" rot="R120"/>
 </element>
-<element name="R18" library="Hexabitz" package="R-0603" value="5.36K" x="31.496" y="129.032" smashed="yes">
-<attribute name="MFN" value="Vishay" x="31.496" y="129.032" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="CRCW06035K36FKEA" x="31.496" y="129.032" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="30.01060625" y="130.187190625" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06035k36fkea-vishay-39850082?r=sp&amp;s=UzQdyXKeQlK-zUZHNwTiSQ" x="31.496" y="129.032" size="1.778" layer="27" display="off"/>
-<attribute name="RESISTANCE" value="5.36K" x="31.496" y="129.032" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="31.496" y="129.032" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="29.958028125" y="127.141984375" size="1.016" layer="27"/>
+<element name="R18" library="Hexabitz" package="R-0603" value="5.36K" x="45.72" y="63.881" smashed="yes" rot="R30">
+<attribute name="MFN" value="Vishay" x="45.72" y="63.881" size="1.778" layer="27" rot="R30" display="off"/>
+<attribute name="MPN" value="CRCW06035K36FKEA" x="45.72" y="63.881" size="1.778" layer="27" rot="R30" display="off"/>
+<attribute name="NAME" x="43.856015625" y="64.138725" size="1.016" layer="25" rot="R30"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06035k36fkea-vishay-39850082?r=sp&amp;s=UzQdyXKeQlK-zUZHNwTiSQ" x="45.72" y="63.881" size="1.778" layer="27" rot="R30" display="off"/>
+<attribute name="RESISTANCE" value="5.36K" x="45.72" y="63.881" size="1.778" layer="27" rot="R30" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="45.72" y="63.881" size="1.778" layer="27" rot="R30" display="off"/>
+<attribute name="VALUE" x="45.333084375" y="61.475209375" size="1.016" layer="27" rot="R30"/>
 </element>
-<element name="D6" library="Hexabitz" package="VLMS1300-GS08" value="GREEN" x="25.781" y="130.048" smashed="yes">
-<attribute name="MFN" value="Vishay" x="25.781" y="130.048" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="VLMTG1300-GS08" x="25.781" y="130.048" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="23.781" y="131.548" size="1.016" layer="25"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/vlmtg1300-gs08-vishay-21709202" x="25.781" y="130.048" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="23.781" y="127.173" size="1.016" layer="27"/>
+<element name="D6" library="Hexabitz" package="VLMS1300-GS08" value="GREEN" x="46.99" y="66.675" smashed="yes" rot="R210">
+<attribute name="MFN" value="Vishay" x="46.99" y="66.675" size="1.778" layer="27" rot="R210" display="off"/>
+<attribute name="MPN" value="VLMTG1300-GS08" x="46.99" y="66.675" size="1.778" layer="27" rot="R210" display="off"/>
+<attribute name="NAME" x="47.4160375" y="67.63305625" size="1.016" layer="25" rot="R300"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/vlmtg1300-gs08-vishay-21709202" x="46.99" y="66.675" size="1.778" layer="27" rot="R210" display="off"/>
+<attribute name="VALUE" x="47.284553125" y="70.164821875" size="1.016" layer="27" rot="R210"/>
 </element>
 </elements>
 <signals>
@@ -2188,36 +2188,36 @@ design rules under a new name.</description>
 <contactref element="C16" pad="2"/>
 <contactref element="D4" pad="C"/>
 <contactref element="D6" pad="A"/>
-<wire x1="37.934" y1="206.502" x2="37.934" y2="215.646" width="0" layer="19" extent="1-1"/>
-<wire x1="38.542" y1="200.914" x2="37.934" y2="206.502" width="0" layer="19" extent="1-1"/>
-<wire x1="38.542" y1="194.691" x2="38.542" y2="200.914" width="0" layer="19" extent="1-1"/>
-<wire x1="36.642" y1="188.468" x2="38.542" y2="194.691" width="0" layer="19" extent="1-1"/>
-<wire x1="36.642" y1="182.245" x2="36.642" y2="188.468" width="0" layer="19" extent="1-1"/>
-<wire x1="36.742" y1="161.798" x2="36.642" y2="182.245" width="0" layer="19" extent="1-1"/>
-<wire x1="37.934" y1="157.226" x2="36.742" y2="161.798" width="0" layer="19" extent="1-1"/>
-<wire x1="31.877" y1="138.569" x2="37.934" y2="157.226" width="0" layer="19" extent="1-1"/>
-<wire x1="25.781" y1="130.798" x2="31.877" y2="138.569" width="0" layer="19" extent="1-1"/>
-<wire x1="58.508" y1="121.031" x2="31.877" y2="138.569" width="0" layer="19" extent="1-1"/>
-<wire x1="58.508" y1="116.459" x2="58.508" y2="121.031" width="0" layer="19" extent="1-1"/>
-<wire x1="60.261" y1="111.252" x2="58.508" y2="116.459" width="0" layer="19" extent="1-1"/>
-<wire x1="50.204" y1="92.583" x2="60.261" y2="111.252" width="0" layer="19" extent="1-1"/>
-<wire x1="49.364" y1="75.184" x2="50.204" y2="92.583" width="0" layer="19" extent="1-1"/>
-<wire x1="41.710396875" y1="71.82354375" x2="49.364" y2="75.184" width="0" layer="19" extent="1-1"/>
-<wire x1="34.77" y1="75.719" x2="41.710396875" y2="71.82354375" width="0" layer="19" extent="1-1"/>
-<wire x1="33.743" y1="70.739" x2="34.77" y2="75.719" width="0" layer="19" extent="1-1"/>
-<wire x1="33.843" y1="68.453" x2="33.743" y2="70.739" width="0" layer="19" extent="1-1"/>
-<wire x1="31.12" y1="64.75" x2="33.843" y2="68.453" width="0" layer="19" extent="1-1"/>
-<wire x1="33.02" y1="63.5" x2="31.12" y2="64.75" width="0" layer="19" extent="1-1"/>
-<wire x1="32.77" y1="61.6" x2="33.02" y2="63.5" width="0" layer="19" extent="1-1"/>
-<wire x1="32.27" y1="61.6" x2="32.77" y2="61.6" width="0" layer="19" extent="1-1"/>
-<wire x1="31.242" y1="56.581" x2="32.27" y2="61.6" width="0" layer="19" extent="1-1"/>
-<wire x1="27.471" y1="58.547" x2="31.242" y2="56.581" width="0" layer="19" extent="1-1"/>
-<wire x1="28.93599375" y1="52.217003125" x2="31.242" y2="56.581" width="0" layer="19" extent="1-1"/>
-<wire x1="38.315" y1="64.389" x2="33.02" y2="63.5" width="0" layer="19" extent="1-1"/>
-<wire x1="42.76" y1="59.182" x2="38.315" y2="64.389" width="0" layer="19" extent="1-1"/>
+<wire x1="39.751" y1="68.795" x2="41.710396875" y2="71.82354375" width="0" layer="19" extent="16-16"/>
+<wire x1="37.338" y1="68.795" x2="39.751" y2="68.795" width="0" layer="19" extent="16-16"/>
+<wire x1="33.843" y1="68.453" x2="37.338" y2="68.795" width="0" layer="19" extent="16-16"/>
+<wire x1="33.743" y1="70.739" x2="33.843" y2="68.453" width="0" layer="19" extent="16-16"/>
+<wire x1="32.004" y1="71.208" x2="33.743" y2="70.739" width="0" layer="19" extent="1-16"/>
+<wire x1="29.718" y1="69.684" x2="32.004" y2="71.208" width="0" layer="19" extent="1-1"/>
+<wire x1="37.909" y1="65.024" x2="37.338" y2="68.795" width="0" layer="19" extent="1-16"/>
+<wire x1="37.934" y1="62.611" x2="37.909" y2="65.024" width="0" layer="19" extent="1-1"/>
+<wire x1="26.587" y1="66.39511875" x2="29.718" y2="69.684" width="0" layer="19" extent="1-1"/>
+<wire x1="28.233" y1="65.278" x2="26.587" y2="66.39511875" width="0" layer="19" extent="1-1"/>
+<wire x1="31.12" y1="64.369" x2="28.233" y2="65.278" width="0" layer="19" extent="1-1"/>
+<wire x1="33.02" y1="63.119" x2="31.12" y2="64.369" width="0" layer="19" extent="1-1"/>
+<wire x1="32.77" y1="61.219" x2="33.02" y2="63.119" width="0" layer="19" extent="1-1"/>
+<wire x1="32.27" y1="61.219" x2="32.77" y2="61.219" width="0" layer="19" extent="1-1"/>
+<wire x1="30.226" y1="60.491" x2="32.27" y2="61.219" width="0" layer="19" extent="1-16"/>
+<wire x1="27.686" y1="60.491" x2="30.226" y2="60.491" width="0" layer="19" extent="16-16"/>
+<wire x1="31.877" y1="57.47" x2="30.226" y2="60.491" width="0" layer="19" extent="1-16"/>
+<wire x1="29.464" y1="55.411" x2="31.877" y2="57.47" width="0" layer="19" extent="1-1"/>
+<wire x1="28.93599375" y1="52.217003125" x2="29.464" y2="55.411" width="0" layer="19" extent="1-1"/>
+<wire x1="34.77" y1="75.719" x2="33.743" y2="70.739" width="0" layer="19" extent="16-16"/>
+<wire x1="24.3296" y1="71.82354375" x2="29.718" y2="69.684" width="0" layer="19" extent="1-1"/>
+<wire x1="21.75" y1="63.058275" x2="26.587" y2="66.39511875" width="0" layer="19" extent="1-16"/>
+<wire x1="19.718" y1="64.201275" x2="21.75" y2="63.058275" width="0" layer="19" extent="16-16"/>
+<wire x1="19.044" y1="67.57851875" x2="19.718" y2="64.201275" width="0" layer="19" extent="1-16"/>
+<wire x1="44.036" y1="62.931275" x2="37.934" y2="62.611" width="0" layer="19" extent="1-16"/>
+<wire x1="46.195" y1="64.201275" x2="44.036" y2="62.931275" width="0" layer="19" extent="16-16"/>
+<wire x1="47.365" y1="66.025478125" x2="46.195" y2="64.201275" width="0" layer="19" extent="1-16"/>
+<wire x1="42.037" y1="57.062" x2="44.036" y2="62.931275" width="0" layer="19" extent="1-16"/>
 <wire x1="28.194" y1="78.22" x2="34.77" y2="75.719" width="0" layer="19" extent="1-1"/>
-<wire x1="24.3296" y1="71.82354375" x2="28.194" y2="78.22" width="0" layer="19" extent="1-1"/>
-<wire x1="38.227" y1="50.903" x2="31.242" y2="56.581" width="0" layer="19" extent="1-1"/>
+<wire x1="38.227" y1="50.903" x2="42.037" y2="57.062" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="GND10">
 <contactref element="P1" pad="PAD_PD20"/>
@@ -2382,21 +2382,21 @@ design rules under a new name.</description>
 <contactref element="L5" pad="1"/>
 <contactref element="C24" pad="1"/>
 <contactref element="C23" pad="2"/>
-<wire x1="39.116" y1="59.27" x2="41.06" y2="59.182" width="0" layer="19" extent="1-1"/>
-<wire x1="36.83" y1="58.469" x2="39.116" y2="59.27" width="0" layer="19" extent="1-1"/>
-<wire x1="34.886" y1="57.277" x2="36.83" y2="58.469" width="0" layer="19" extent="1-1"/>
+<wire x1="39.751" y1="58.762" x2="42.037" y2="58.762" width="0" layer="19" extent="1-1"/>
+<wire x1="37.338" y1="56.945" x2="39.751" y2="58.762" width="0" layer="19" extent="1-1"/>
+<wire x1="35.394" y1="57.15" x2="37.338" y2="56.945" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$16">
 <contactref element="L4" pad="4"/>
 <contactref element="D3" pad="1"/>
 <contactref element="R15" pad="2"/>
-<wire x1="36.83" y1="55.069" x2="39.116" y2="54.141" width="0" layer="19" extent="1-1"/>
-<wire x1="34.310003125" y1="52.217003125" x2="36.83" y2="55.069" width="0" layer="19" extent="1-1"/>
+<wire x1="37.338" y1="53.545" x2="39.751" y2="53.633" width="0" layer="19" extent="1-1"/>
+<wire x1="34.310003125" y1="52.217003125" x2="37.338" y2="53.545" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$17">
 <contactref element="R15" pad="1"/>
 <contactref element="C23" pad="1"/>
-<wire x1="39.116" y1="55.841" x2="39.116" y2="57.57" width="0" layer="19" extent="1-1"/>
+<wire x1="39.751" y1="55.333" x2="39.751" y2="57.062" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$19">
 <contactref element="R20" pad="2"/>
@@ -2416,21 +2416,21 @@ design rules under a new name.</description>
 <contactref element="U2" pad="6"/>
 <contactref element="R4" pad="2"/>
 <contactref element="L2" pad="1"/>
-<wire x1="34.27" y1="61.6" x2="33.77" y2="61.6" width="0" layer="19" extent="1-1"/>
-<wire x1="34.886" y1="59.563" x2="34.27" y2="61.6" width="0" layer="19" extent="1-1"/>
-<wire x1="36.83" y1="60.872" x2="34.886" y2="59.563" width="0" layer="19" extent="1-1"/>
-<wire x1="31.242" y1="58.481" x2="34.886" y2="59.563" width="0" layer="19" extent="1-1"/>
-<wire x1="29.171" y1="58.547" x2="31.242" y2="58.481" width="0" layer="19" extent="1-1"/>
-<wire x1="29.21" y1="60.516" x2="29.171" y2="58.547" width="0" layer="19" extent="1-1"/>
+<wire x1="34.27" y1="61.219" x2="33.77" y2="61.219" width="0" layer="19" extent="1-1"/>
+<wire x1="35.394" y1="59.436" x2="34.27" y2="61.219" width="0" layer="19" extent="1-1"/>
+<wire x1="37.338" y1="59.094" x2="35.394" y2="59.436" width="0" layer="19" extent="1-1"/>
+<wire x1="31.877" y1="59.37" x2="33.77" y2="61.219" width="0" layer="19" extent="1-1"/>
+<wire x1="29.464" y1="58.738" x2="31.877" y2="59.37" width="0" layer="19" extent="1-1"/>
+<wire x1="29.464" y1="57.111" x2="29.464" y2="58.738" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$21">
 <contactref element="U2" pad="1"/>
 <contactref element="U2" pad="24"/>
 <contactref element="D1" pad="1"/>
 <contactref element="L2" pad="2"/>
-<wire x1="31.12" y1="62.25" x2="57.355" y2="145.669" width="0" layer="19" extent="1-1"/>
-<wire x1="31.77" y1="61.6" x2="31.12" y2="62.25" width="0" layer="19" extent="1-1"/>
-<wire x1="29.21" y1="62.166" x2="31.12" y2="62.25" width="0" layer="19" extent="1-1"/>
+<wire x1="31.12" y1="61.869" x2="31.77" y2="61.219" width="0" layer="19" extent="1-1"/>
+<wire x1="29.464" y1="60.388" x2="31.12" y2="61.869" width="0" layer="19" extent="1-1"/>
+<wire x1="25.146" y1="58.498" x2="29.464" y2="60.388" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$22">
 <contactref element="D1" pad="2"/>
@@ -2440,12 +2440,12 @@ design rules under a new name.</description>
 <contactref element="C21" pad="1"/>
 <contactref element="R7" pad="1"/>
 <contactref element="C13" pad="2"/>
-<wire x1="36.234" y1="206.502" x2="36.234" y2="215.646" width="0" layer="19" extent="1-1"/>
-<wire x1="36.742" y1="152.146" x2="36.234" y2="206.502" width="0" layer="19" extent="1-1"/>
-<wire x1="37.934" y1="147.574" x2="36.742" y2="152.146" width="0" layer="19" extent="1-1"/>
-<wire x1="60.755" y1="145.669" x2="37.934" y2="147.574" width="0" layer="19" extent="1-1"/>
-<wire x1="50.712" y1="97.155" x2="60.755" y2="145.669" width="0" layer="19" extent="1-1"/>
-<wire x1="31.12" y1="62.75" x2="50.712" y2="97.155" width="0" layer="19" extent="1-1"/>
+<wire x1="30.226" y1="62.191" x2="31.12" y2="62.369" width="0" layer="19" extent="1-16"/>
+<wire x1="29.464" y1="61.888" x2="30.226" y2="62.191" width="0" layer="19" extent="1-16"/>
+<wire x1="27.686" y1="62.191" x2="29.464" y2="61.888" width="0" layer="19" extent="1-16"/>
+<wire x1="27.178" y1="61.888" x2="27.686" y2="62.191" width="0" layer="19" extent="1-16"/>
+<wire x1="25.882121875" y1="62.821" x2="27.178" y2="61.888" width="0" layer="19" extent="1-16"/>
+<wire x1="25.146" y1="61.898" x2="25.882121875" y2="62.821" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="N$23">
 <contactref element="U2" pad="11"/>
@@ -2455,31 +2455,31 @@ design rules under a new name.</description>
 <contactref element="U2" pad="10"/>
 <contactref element="R4" pad="1"/>
 <contactref element="C6" pad="1"/>
-<wire x1="34.92" y1="64.25" x2="36.615" y2="64.389" width="0" layer="19" extent="1-1"/>
-<wire x1="34.92" y1="63.75" x2="34.92" y2="64.25" width="0" layer="19" extent="1-1"/>
-<wire x1="34.92" y1="63.25" x2="34.92" y2="63.75" width="0" layer="19" extent="1-1"/>
-<wire x1="34.92" y1="62.75" x2="34.92" y2="63.25" width="0" layer="19" extent="1-1"/>
-<wire x1="36.83" y1="62.572" x2="36.615" y2="64.389" width="0" layer="19" extent="1-1"/>
-<wire x1="33.27" y1="61.6" x2="34.92" y2="62.75" width="0" layer="19" extent="1-1"/>
+<wire x1="34.92" y1="63.369" x2="34.92" y2="63.869" width="0" layer="19" extent="1-1"/>
+<wire x1="34.92" y1="62.869" x2="34.92" y2="63.369" width="0" layer="19" extent="1-1"/>
+<wire x1="34.92" y1="62.369" x2="34.92" y2="62.869" width="0" layer="19" extent="1-1"/>
+<wire x1="36.234" y1="62.611" x2="34.92" y2="62.869" width="0" layer="19" extent="1-1"/>
+<wire x1="33.27" y1="61.219" x2="34.92" y2="62.369" width="0" layer="19" extent="1-1"/>
+<wire x1="37.338" y1="60.794" x2="36.234" y2="62.611" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$24">
 <contactref element="U2" pad="18"/>
 <contactref element="C10" pad="1"/>
-<wire x1="31.77" y1="65.4" x2="56.808" y2="121.031" width="0" layer="19" extent="1-1"/>
+<wire x1="29.718" y1="67.984" x2="31.77" y2="65.019" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$25">
 <contactref element="U2" pad="21"/>
 <contactref element="C15" pad="1"/>
-<wire x1="31.12" y1="63.75" x2="56.808" y2="116.459" width="0" layer="19" extent="1-1"/>
+<wire x1="29.933" y1="65.278" x2="31.12" y2="63.369" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$26">
 <contactref element="U2" pad="14"/>
 <contactref element="D2" pad="2"/>
 <contactref element="L3" pad="1"/>
 <contactref element="U2" pad="13"/>
-<wire x1="54.151" y1="113.665" x2="58.611" y2="111.252" width="0" layer="19" extent="1-1"/>
-<wire x1="34.27" y1="65.4" x2="58.611" y2="111.252" width="0" layer="19" extent="1-1"/>
-<wire x1="33.77" y1="65.4" x2="34.27" y2="65.4" width="0" layer="19" extent="1-1"/>
+<wire x1="36.259" y1="65.024" x2="37.895" y2="67.437" width="0" layer="19" extent="1-1"/>
+<wire x1="34.27" y1="65.019" x2="36.259" y2="65.024" width="0" layer="19" extent="1-1"/>
+<wire x1="33.77" y1="65.019" x2="34.27" y2="65.019" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$27">
 <contactref element="D2" pad="1"/>
@@ -2489,12 +2489,12 @@ design rules under a new name.</description>
 <contactref element="C19" pad="2"/>
 <contactref element="R10" pad="1"/>
 <contactref element="C12" pad="2"/>
-<wire x1="37.934" y1="166.878" x2="36.742" y2="171.45" width="0" layer="19" extent="1-1"/>
-<wire x1="50.751" y1="113.665" x2="37.934" y2="166.878" width="0" layer="19" extent="1-1"/>
-<wire x1="50.712" y1="102.235" x2="50.751" y2="113.665" width="0" layer="19" extent="1-1"/>
-<wire x1="51.904" y1="92.583" x2="50.712" y2="102.235" width="0" layer="19" extent="1-1"/>
-<wire x1="47.664" y1="75.184" x2="51.904" y2="92.583" width="0" layer="19" extent="1-1"/>
-<wire x1="33.27" y1="65.4" x2="47.664" y2="75.184" width="0" layer="19" extent="1-1"/>
+<wire x1="40.215" y1="64.99811875" x2="39.751" y2="67.095" width="0" layer="19" extent="16-16"/>
+<wire x1="37.338" y1="67.095" x2="39.751" y2="67.095" width="0" layer="19" extent="16-16"/>
+<wire x1="35.394" y1="69.088" x2="37.338" y2="67.095" width="0" layer="19" extent="1-16"/>
+<wire x1="35.521" y1="70.866" x2="35.394" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="34.495" y1="67.437" x2="35.394" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="33.27" y1="65.019" x2="34.495" y2="67.437" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+5V">
 <contactref element="L5" pad="2"/>
@@ -2503,11 +2503,11 @@ design rules under a new name.</description>
 <contactref element="C29" pad="1"/>
 <contactref element="SJ3" pad="1"/>
 <contactref element="FB1" pad="1"/>
-<wire x1="32.043" y1="70.739" x2="31.27" y2="75.719" width="0" layer="19" extent="1-1"/>
-<wire x1="31.943" y1="68.453" x2="32.043" y2="70.739" width="0" layer="19" extent="1-1"/>
-<wire x1="29.718" y1="70.739" x2="32.043" y2="70.739" width="0" layer="19" extent="1-16"/>
-<wire x1="33.186" y1="59.563" x2="31.943" y2="68.453" width="0" layer="19" extent="1-1"/>
-<wire x1="33.186" y1="57.277" x2="33.186" y2="59.563" width="0" layer="19" extent="1-1"/>
+<wire x1="32.043" y1="70.739" x2="31.27" y2="75.719" width="0" layer="19" extent="16-16"/>
+<wire x1="31.943" y1="68.453" x2="32.043" y2="70.739" width="0" layer="19" extent="16-16"/>
+<wire x1="29.718" y1="70.739" x2="32.043" y2="70.739" width="0" layer="19" extent="16-16"/>
+<wire x1="33.694" y1="59.436" x2="31.943" y2="68.453" width="0" layer="19" extent="1-16"/>
+<wire x1="33.694" y1="57.15" x2="33.694" y2="59.436" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+15V">
 <contactref element="R16" pad="2"/>
@@ -2515,10 +2515,10 @@ design rules under a new name.</description>
 <contactref element="C25" pad="1"/>
 <contactref element="C27" pad="1"/>
 <contactref element="SJ1" pad="1"/>
-<wire x1="36.642" y1="194.691" x2="36.642" y2="200.914" width="0" layer="19" extent="1-1"/>
-<wire x1="36.957" y1="142.113" x2="36.642" y2="194.691" width="0" layer="19" extent="1-1"/>
-<wire x1="52.412" y1="97.155" x2="36.957" y2="142.113" width="0" layer="19" extent="1-1"/>
-<wire x1="22.5796" y1="68.792453125" x2="52.412" y2="97.155" width="0" layer="19" extent="1-1"/>
+<wire x1="20.668" y1="65.846721875" x2="22.5796" y2="68.792453125" width="0" layer="19" extent="16-16"/>
+<wire x1="22.7" y1="64.703721875" x2="20.668" y2="65.846721875" width="0" layer="19" extent="16-16"/>
+<wire x1="23.368" y1="64.032909375" x2="22.7" y2="64.703721875" width="0" layer="19" extent="1-16"/>
+<wire x1="24.40988125" y1="63.671" x2="23.368" y2="64.032909375" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="-15V">
 <contactref element="R17" pad="2"/>
@@ -2526,55 +2526,55 @@ design rules under a new name.</description>
 <contactref element="C28" pad="2"/>
 <contactref element="C26" pad="2"/>
 <contactref element="SJ2" pad="2"/>
-<wire x1="38.542" y1="182.245" x2="38.542" y2="188.468" width="0" layer="19" extent="1-1"/>
-<wire x1="32.385" y1="132.842" x2="38.542" y2="182.245" width="0" layer="19" extent="1-1"/>
-<wire x1="52.412" y1="102.235" x2="32.385" y2="132.842" width="0" layer="19" extent="1-1"/>
-<wire x1="43.460396875" y1="68.792453125" x2="52.412" y2="102.235" width="0" layer="19" extent="1-1"/>
+<wire x1="45.245" y1="65.846721875" x2="43.460396875" y2="68.792453125" width="0" layer="19" extent="16-16"/>
+<wire x1="43.086" y1="64.576721875" x2="45.245" y2="65.846721875" width="0" layer="19" extent="16-16"/>
+<wire x1="42.164" y1="64.159909375" x2="43.086" y2="64.576721875" width="0" layer="19" extent="1-16"/>
+<wire x1="41.065" y1="63.525878125" x2="42.164" y2="64.159909375" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="N$28">
 <contactref element="U2" pad="16"/>
 <contactref element="R6" pad="1"/>
 <contactref element="R10" pad="2"/>
 <contactref element="C12" pad="1"/>
-<wire x1="38.442" y1="171.45" x2="36.742" y2="176.53" width="0" layer="19" extent="1-1"/>
-<wire x1="36.234" y1="166.878" x2="38.442" y2="171.45" width="0" layer="19" extent="1-1"/>
-<wire x1="32.77" y1="65.4" x2="36.234" y2="166.878" width="0" layer="19" extent="1-1"/>
+<wire x1="33.821" y1="70.866" x2="33.694" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="32.004" y1="66.206" x2="33.694" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="32.77" y1="65.019" x2="32.004" y2="66.206" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$29">
 <contactref element="U2" pad="17"/>
 <contactref element="R6" pad="2"/>
 <contactref element="C16" pad="1"/>
-<wire x1="36.234" y1="157.226" x2="38.442" y2="176.53" width="0" layer="19" extent="1-1"/>
-<wire x1="32.27" y1="65.4" x2="36.234" y2="157.226" width="0" layer="19" extent="1-1"/>
+<wire x1="32.004" y1="67.906" x2="32.004" y2="69.508" width="0" layer="19" extent="1-1"/>
+<wire x1="32.27" y1="65.019" x2="32.004" y2="67.906" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$30">
 <contactref element="U2" pad="22"/>
 <contactref element="R11" pad="2"/>
 <contactref element="R7" pad="2"/>
 <contactref element="C13" pad="1"/>
-<wire x1="38.442" y1="152.146" x2="38.442" y2="161.798" width="0" layer="19" extent="1-1"/>
-<wire x1="36.234" y1="147.574" x2="38.442" y2="152.146" width="0" layer="19" extent="1-1"/>
-<wire x1="31.12" y1="63.25" x2="36.234" y2="147.574" width="0" layer="19" extent="1-1"/>
+<wire x1="29.464" y1="63.588" x2="31.12" y2="62.869" width="0" layer="19" extent="1-1"/>
+<wire x1="27.178" y1="63.588" x2="29.464" y2="63.588" width="0" layer="19" extent="1-1"/>
+<wire x1="25.737" y1="64.922878125" x2="27.178" y2="63.588" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$31">
 <contactref element="SJ1" pad="2"/>
 <contactref element="R19" pad="1"/>
-<wire x1="36.742" y1="138.303" x2="38.481" y2="142.113" width="0" layer="19" extent="1-1"/>
+<wire x1="22.606" y1="62.7130875" x2="20.80211875" y2="63.71" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$32">
 <contactref element="R19" pad="2"/>
 <contactref element="D4" pad="A"/>
-<wire x1="31.877" y1="140.069" x2="38.442" y2="138.303" width="0" layer="19" extent="1-1"/>
+<wire x1="19.329878125" y1="64.56" x2="18.294" y2="66.279478125" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$33">
 <contactref element="SJ2" pad="1"/>
 <contactref element="R18" pad="1"/>
-<wire x1="30.646" y1="129.032" x2="30.861" y2="132.842" width="0" layer="19" extent="1-1"/>
+<wire x1="42.926" y1="62.8400875" x2="44.983878125" y2="63.456" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$34">
 <contactref element="R18" pad="2"/>
 <contactref element="D6" pad="C"/>
-<wire x1="25.781" y1="129.298" x2="32.346" y2="129.032" width="0" layer="19" extent="1-1"/>
+<wire x1="46.45611875" y1="64.306" x2="46.615" y2="67.32451875" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
