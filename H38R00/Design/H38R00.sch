@@ -5366,7 +5366,7 @@ P=1.44W</text>
 <wire x1="193.04" y1="170.18" x2="191.77" y2="170.18" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="AGND" class="0">
+<net name="IGND" class="0">
 <segment>
 <pinref part="C20" gate="G$1" pin="2"/>
 <pinref part="AGND6" gate="VR1" pin="AGND"/>
@@ -5545,15 +5545,15 @@ P=1.44W</text>
 <wire x1="31.75" y1="43.18" x2="31.75" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="31.75" y1="78.74" x2="31.75" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="31.75" y1="83.82" x2="27.94" y2="83.82" width="0.1524" layer="91"/>
-<pinref part="P1" gate="G$1" pin="GND2"/>
-<wire x1="27.94" y1="78.74" x2="31.75" y2="78.74" width="0.1524" layer="91"/>
-<junction x="31.75" y="78.74"/>
 <pinref part="P1" gate="G$1" pin="GND9"/>
 <wire x1="27.94" y1="43.18" x2="31.75" y2="43.18" width="0.1524" layer="91"/>
 <junction x="31.75" y="43.18"/>
 <pinref part="P1" gate="G$1" pin="GND10"/>
 <wire x1="27.94" y1="38.1" x2="31.75" y2="38.1" width="0.1524" layer="91"/>
 <junction x="31.75" y="38.1"/>
+<pinref part="P1" gate="G$1" pin="GND2"/>
+<wire x1="27.94" y1="78.74" x2="31.75" y2="78.74" width="0.1524" layer="91"/>
+<junction x="31.75" y="78.74"/>
 </segment>
 </net>
 <net name="N$15" class="0">
@@ -5924,21 +5924,21 @@ P=1.44W</text>
 </segment>
 <segment>
 <pinref part="+3V3" gate="G$1" pin="+3V3"/>
-<pinref part="P1" gate="G$1" pin="VDD2"/>
 <wire x1="31.75" y1="149.86" x2="31.75" y2="139.7" width="0.1524" layer="91"/>
-<wire x1="31.75" y1="139.7" x2="31.75" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="31.75" y1="134.62" x2="27.94" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="P1" gate="G$1" pin="VDD1"/>
 <wire x1="27.94" y1="139.7" x2="31.75" y2="139.7" width="0.1524" layer="91"/>
 <junction x="31.75" y="139.7"/>
 <pinref part="P1" gate="G$1" pin="VDD10"/>
 <wire x1="27.94" y1="93.98" x2="31.75" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="31.75" y1="93.98" x2="31.75" y2="99.06" width="0.1524" layer="91"/>
-<junction x="31.75" y="134.62"/>
 <pinref part="P1" gate="G$1" pin="VDD9"/>
 <wire x1="31.75" y1="99.06" x2="31.75" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="31.75" y1="134.62" x2="31.75" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="99.06" x2="31.75" y2="99.06" width="0.1524" layer="91"/>
 <junction x="31.75" y="99.06"/>
+<pinref part="P1" gate="G$1" pin="VDD2"/>
+<wire x1="27.94" y1="134.62" x2="31.75" y2="134.62" width="0.1524" layer="91"/>
+<junction x="31.75" y="134.62"/>
 </segment>
 </net>
 <net name="N$35" class="0">
@@ -5965,12 +5965,27 @@ P=1.44W</text>
 </sheet>
 </sheets>
 <errors>
+<approved hash="102,1,62.23,76.2,AGND,IGND,,,,"/>
+<approved hash="102,1,203.2,133.35,AGND,IGND,,,,"/>
+<approved hash="102,1,220.98,148.59,AGND,IGND,,,,"/>
+<approved hash="102,1,260.35,194.31,AGND,IGND,,,,"/>
+<approved hash="102,1,85.09,50.8,AGND,IGND,,,,"/>
+<approved hash="102,1,148.59,33.02,AGND,IGND,,,,"/>
+<approved hash="102,1,182.88,33.02,AGND,IGND,,,,"/>
+<approved hash="102,1,245.11,92.71,AGND,IGND,,,,"/>
+<approved hash="102,1,182.88,83.82,AGND,IGND,,,,"/>
+<approved hash="102,1,260.35,135.89,AGND,IGND,,,,"/>
+<approved hash="102,1,260.35,39.37,AGND,IGND,,,,"/>
+<approved hash="102,1,41.91,16.51,AGND,IGND,,,,"/>
+<approved hash="102,1,72.39,16.51,AGND,IGND,,,,"/>
+<approved hash="102,1,92.71,16.51,AGND,IGND,,,,"/>
+<approved hash="102,1,31.75,31.75,AGND,IGND,,,,"/>
 <approved hash="104,1,27.94,134.62,P1,VDD2,+3V3,,,"/>
 <approved hash="204,1,27.94,129.54,P1,VDD3,,,,"/>
 <approved hash="204,1,27.94,124.46,P1,VDD4,,,,"/>
 <approved hash="204,1,27.94,119.38,P1,VDD5,,,,"/>
 <approved hash="204,1,27.94,114.3,P1,VDD6,,,,"/>
-<approved hash="104,1,27.94,78.74,P1,GND2,AGND,,,"/>
+<approved hash="104,1,27.94,78.74,P1,GND2,IGND,,,"/>
 <approved hash="204,1,27.94,73.66,P1,GND3,,,,"/>
 <approved hash="204,1,27.94,68.58,P1,GND4,,,,"/>
 <approved hash="204,1,27.94,63.5,P1,GND5,,,,"/>
@@ -5980,11 +5995,11 @@ P=1.44W</text>
 <approved hash="104,1,27.94,99.06,P1,VDD9,+3V3,,,"/>
 <approved hash="204,1,27.94,53.34,P1,GND7,,,,"/>
 <approved hash="204,1,27.94,48.26,P1,GND8,,,,"/>
-<approved hash="104,1,27.94,43.18,P1,GND9,AGND,,,"/>
+<approved hash="104,1,27.94,43.18,P1,GND9,IGND,,,"/>
 <approved hash="104,1,27.94,139.7,P1,VDD1,+3V3,,,"/>
 <approved hash="104,1,27.94,93.98,P1,VDD10,+3V3,,,"/>
-<approved hash="104,1,27.94,83.82,P1,GND1,AGND,,,"/>
-<approved hash="104,1,27.94,38.1,P1,GND10,AGND,,,"/>
+<approved hash="104,1,27.94,83.82,P1,GND1,IGND,,,"/>
+<approved hash="104,1,27.94,38.1,P1,GND10,IGND,,,"/>
 <approved hash="104,1,105.41,153.67,U1,AGND,GND,,,"/>
 <approved hash="104,1,105.41,151.13,U1,PGND,GND,,,"/>
 <approved hash="104,1,105.41,184.15,U1,VIN,N$3,,,"/>
@@ -5994,19 +6009,20 @@ P=1.44W</text>
 <approved hash="104,1,146.05,176.53,U1,SW,N$7,,,"/>
 <approved hash="104,1,105.41,148.59,U1,PAD,GND,,,"/>
 <approved hash="104,1,105.41,96.52,U2,INP_2,N$21,,,"/>
-<approved hash="104,1,146.05,40.64,U2,PGND_2,AGND,,,"/>
-<approved hash="104,1,146.05,38.1,U2,PGND,AGND,,,"/>
+<approved hash="104,1,146.05,40.64,U2,PGND_2,IGND,,,"/>
+<approved hash="104,1,146.05,38.1,U2,PGND,IGND,,,"/>
 <approved hash="104,1,105.41,71.12,U2,VIN,N$23,,,"/>
 <approved hash="104,1,105.41,78.74,U2,INN_2,N$18,,,"/>
 <approved hash="104,1,105.41,76.2,U2,INN,N$18,,,"/>
 <approved hash="104,1,146.05,66.04,U2,OUTN_2,N$26,,,"/>
 <approved hash="104,1,146.05,63.5,U2,OUTN,N$26,,,"/>
+<approved hash="104,1,146.05,43.18,U2,AGND,IGND,,,"/>
 <approved hash="104,1,105.41,93.98,U2,INP,N$21,,,"/>
-<approved hash="104,1,146.05,35.56,U2,PAD,AGND,,,"/>
-<approved hash="113,1,239.69,176.53,SJ3,,,,,"/>
-<approved hash="113,1,225.72,127,SJ1,,,,,"/>
-<approved hash="113,1,225.72,58.42,SJ2,,,,,"/>
-<approved hash="113,1,40.2996,46.99,SJ4,,,,,"/>
+<approved hash="104,1,146.05,35.56,U2,PAD,IGND,,,"/>
+<approved hash="113,1,239.69,176.53,J5,,,,,"/>
+<approved hash="113,1,225.72,127,J+15,,,,,"/>
+<approved hash="113,1,225.72,58.42,J-15,,,,,"/>
+<approved hash="113,1,40.2996,46.99,J3V3,,,,,"/>
 </errors>
 </schematic>
 </drawing>
