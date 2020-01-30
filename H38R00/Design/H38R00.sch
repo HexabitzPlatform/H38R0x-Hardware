@@ -567,7 +567,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <smd name="10" x="1.9" y="0.250003125" dx="0.25" dy="0.6" layer="1" rot="R270"/>
 <smd name="11" x="1.9" y="0.75" dx="0.25" dy="0.6" layer="1" rot="R270"/>
 <smd name="12" x="1.9" y="1.25" dx="0.25" dy="0.6" layer="1" rot="R270"/>
-<smd name="13" x="0" y="0" dx="3" dy="2.6" layer="1" rot="R270"/>
+<smd name="13" x="0" y="0" dx="3" dy="2.1336" layer="1" rot="R270"/>
 <wire x1="-2.2098" y1="-2.2098" x2="-2.0066" y2="-2.2098" width="0.2032" layer="21"/>
 <wire x1="-2.2098" y1="-2.2098" x2="-2.2098" y2="-2.032" width="0.2032" layer="21"/>
 <wire x1="2.2098" y1="-2.2098" x2="2.2098" y2="-2.032" width="0.2032" layer="21"/>
@@ -584,26 +584,26 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-1.7018" y1="1.4986" x2="-1.2954" y2="1.4986" width="0.1016" layer="51" curve="-180"/>
 <polygon width="0.0254" layer="31">
 <vertex x="0.1" y="0.1"/>
-<vertex x="1.248" y="0.1"/>
-<vertex x="1.248" y="1.41"/>
+<vertex x="0.994" y="0.1"/>
+<vertex x="0.994" y="1.41"/>
 <vertex x="0.1" y="1.41"/>
 </polygon>
 <polygon width="0.0254" layer="31">
 <vertex x="-0.099996875" y="1.41"/>
-<vertex x="-1.248" y="1.41"/>
-<vertex x="-1.248" y="0.1"/>
+<vertex x="-0.994" y="1.41"/>
+<vertex x="-0.994" y="0.1"/>
 <vertex x="-0.099996875" y="0.1"/>
 </polygon>
 <polygon width="0.0254" layer="31">
 <vertex x="-0.099996875" y="-0.1"/>
-<vertex x="-1.248" y="-0.1"/>
-<vertex x="-1.248" y="-1.41"/>
+<vertex x="-0.994" y="-0.1"/>
+<vertex x="-0.994" y="-1.41"/>
 <vertex x="-0.099996875" y="-1.41"/>
 </polygon>
 <polygon width="0.0254" layer="31">
 <vertex x="0.1" y="-1.41"/>
-<vertex x="1.248" y="-1.41"/>
-<vertex x="1.248" y="-0.1"/>
+<vertex x="0.994" y="-1.41"/>
+<vertex x="0.994" y="-0.1"/>
 <vertex x="0.1" y="-0.1"/>
 </polygon>
 <text x="-2.2606" y="2.667" size="1.016" layer="25" rot="SR0">&gt;Name</text>
@@ -634,7 +634,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <smd name="22" x="-0.25" y="1.9" dx="0.6" dy="0.24" layer="1" rot="R90"/>
 <smd name="23" x="-0.75" y="1.9" dx="0.6" dy="0.24" layer="1" rot="R90"/>
 <smd name="24" x="-1.25" y="1.9" dx="0.6" dy="0.24" layer="1" rot="R90"/>
-<smd name="25" x="0" y="0" dx="2.45" dy="2.45" layer="1"/>
+<smd name="25" x="0" y="0" dx="2.159" dy="2.159" layer="1"/>
 <wire x1="-2.0828" y1="-2.0828" x2="2.0828" y2="-2.0828" width="0.1524" layer="51"/>
 <wire x1="-2.0828" y1="2.0828" x2="2.0828" y2="2.0828" width="0.1524" layer="51"/>
 <wire x1="2.0828" y1="-2.0828" x2="2.0828" y2="2.0828" width="0.1524" layer="51"/>
@@ -648,28 +648,28 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-2.2352" y1="1.6002" x2="-2.2352" y2="2.2352" width="0.2032" layer="21"/>
 <wire x1="-2.2352" y1="2.2352" x2="-1.6002" y2="2.2352" width="0.2032" layer="21"/>
 <polygon width="0.0254" layer="31">
-<vertex x="0.1" y="-1.184"/>
-<vertex x="1.184" y="-1.184"/>
-<vertex x="1.184" y="-0.1"/>
+<vertex x="0.1" y="-1.057"/>
+<vertex x="1.057" y="-1.057"/>
+<vertex x="1.057" y="-0.1"/>
 <vertex x="0.1" y="-0.1"/>
 </polygon>
 <polygon width="0.0254" layer="31">
 <vertex x="-0.1" y="-0.1"/>
-<vertex x="-1.184" y="-0.1"/>
-<vertex x="-1.184" y="-1.184"/>
-<vertex x="-0.1" y="-1.184"/>
+<vertex x="-1.057" y="-0.1"/>
+<vertex x="-1.057" y="-1.057"/>
+<vertex x="-0.1" y="-1.057"/>
 </polygon>
 <polygon width="0.0254" layer="31">
-<vertex x="-0.1" y="1.184"/>
-<vertex x="-1.184" y="1.184"/>
-<vertex x="-1.184" y="0.1"/>
+<vertex x="-0.1" y="1.057"/>
+<vertex x="-1.057" y="1.057"/>
+<vertex x="-1.057" y="0.1"/>
 <vertex x="-0.1" y="0.1"/>
 </polygon>
 <polygon width="0.0254" layer="31">
 <vertex x="0.1" y="0.1"/>
-<vertex x="1.184" y="0.1"/>
-<vertex x="1.184" y="1.184"/>
-<vertex x="0.1" y="1.184"/>
+<vertex x="1.057" y="0.1"/>
+<vertex x="1.057" y="1.057"/>
+<vertex x="0.1" y="1.057"/>
 </polygon>
 <text x="-2.0066" y="3.175" size="1.016" layer="25" rot="SR0">&gt;Name</text>
 <circle x="-2.794" y="1.27" radius="0.254" width="0.2032" layer="21"/>
