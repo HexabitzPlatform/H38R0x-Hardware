@@ -424,16 +424,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <vertex x="-8.66" y="-15"/>
 </polygon>
 <polygon width="0.1" layer="1">
-<vertex x="16.37" y="1.65" curve="120"/>
-<vertex x="16.37" y="-1.65"/>
-<vertex x="17.32" y="0"/>
-</polygon>
-<polygon width="0.1" layer="16">
-<vertex x="16.37" y="1.65" curve="120"/>
-<vertex x="16.37" y="-1.65"/>
-<vertex x="17.32" y="0"/>
-</polygon>
-<polygon width="0.1" layer="1">
 <vertex x="6.75605625" y="15.001834375" curve="120"/>
 <vertex x="9.613940625" y="13.351834375"/>
 <vertex x="8.66" y="14.999559375"/>
