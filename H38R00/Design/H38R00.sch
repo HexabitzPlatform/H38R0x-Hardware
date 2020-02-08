@@ -1389,7 +1389,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="" constant="no"/>
 <attribute name="MFN" value="" constant="no"/>
 <attribute name="MPN" value="" constant="no"/>
-<attribute name="OCTOPAR_URL" value="" constant="no"/>
+<attribute name="OCTOPART_URL" value="" constant="no"/>
 <attribute name="TOLERANCE" value="" constant="no"/>
 <attribute name="VOLTAGE_RATING" value="" constant="no"/>
 </technology>
@@ -1968,7 +1968,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Würth Elektronik"/>
 <attribute name="MPN" value="885012207026"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="10V"/>
 </part>
@@ -2006,7 +2006,8 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Würth Elektronik"/>
 <attribute name="MPN" value="885012207026"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w
+"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="10V"/>
 </part>
@@ -2120,7 +2121,8 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Murata"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q
+"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="25V"/>
 </part>
@@ -2128,7 +2130,8 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Murata"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q
+"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="25V"/>
 </part>
@@ -2136,7 +2139,8 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Murata"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q
+"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="25V"/>
 </part>
@@ -2144,7 +2148,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Murata"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="25V"/>
 </part>
@@ -2238,7 +2242,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <attribute name="CAPACITANCE" value="10uF"/>
 <attribute name="MFN" value="Murata"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L"/>
-<attribute name="OCTOPAR_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q"/>
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="25V"/>
 </part>
