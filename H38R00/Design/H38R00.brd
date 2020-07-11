@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -1821,8 +1821,7 @@ design rules under a new name.</description>
 <attribute name="MFN" value="Würth Elektronik" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="885012207026" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="31.369" y="56.134" size="1.016" layer="25" rot="R270"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w
-" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/885012207026-w%C3%BCrth+elektronik-65419800?r=sp&amp;s=PJ8-ZxRrRL-RXf1D2e7V7w " x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="29.337" y="59.69" size="1.27" layer="27" rot="R270"/>
 <attribute name="VOLTAGE_RATING" value="10V" x="31.877" y="58.42" size="1.778" layer="27" rot="R270" display="off"/>
@@ -2005,8 +2004,7 @@ design rules under a new name.</description>
 <attribute name="MFN" value="Murata" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="NAME" x="24.80815" y="60.408853125" size="1.016" layer="26" rot="MR300"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q
-" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q " x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="VALUE" x="25.05970625" y="63.710853125" size="1.27" layer="28" rot="MR300"/>
 <attribute name="VOLTAGE_RATING" value="25V" x="22.225" y="63.881" size="1.778" layer="28" rot="MR300" display="off"/>
@@ -2016,8 +2014,7 @@ design rules under a new name.</description>
 <attribute name="MFN" value="Murata" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="NAME" x="23.41115" y="61.297853125" size="1.016" layer="26" rot="MR300"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q
-" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q " x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
 <attribute name="VALUE" x="23.02770625" y="64.853853125" size="1.27" layer="28" rot="MR300"/>
 <attribute name="VOLTAGE_RATING" value="25V" x="20.193" y="65.024" size="1.778" layer="28" rot="MR300" display="off"/>
@@ -2027,8 +2024,7 @@ design rules under a new name.</description>
 <attribute name="MFN" value="Murata" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
 <attribute name="MPN" value="GRM21BC71E106KE11L" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
 <attribute name="NAME" x="43.771853125" y="58.717146875" size="1.016" layer="26" rot="MR60"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q
-" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc71e106ke11l-murata-51454492?r=sp&amp;s=2Vde2RpCRyqy5YYMvYke3Q " x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
 <attribute name="VALUE" x="41.996296875" y="61.384146875" size="1.27" layer="28" rot="MR60"/>
 <attribute name="VOLTAGE_RATING" value="25V" x="43.561" y="63.754" size="1.778" layer="28" rot="MR60" display="off"/>
